@@ -1,0 +1,115 @@
+=======
+Swaras:
+7 basic swaras
+
+Shadja
+Rishabha
+Gandhara
+Madhyama
+Panchama
+Dhaivata
+Nishada
+
+Positions:
+s1 Ṣhaḍja
+r1 Shuddha Rishabha
+r2 Chatushruti Rishabha
+g1 Shuddha Gandhara
+r3 Shatshruti Rishabha
+g2 Sadharana Gandhara
+g3 Antara Gandhara
+m1 Shuddha Madhyama
+m2 Prathi Madhyama
+p  Panchama
+d1 Shuddha Dhaivata
+d2 Chatushruti Dhaivata
+n1 Shuddha Nishada
+d3 Shatshruti Dhaivata
+n2 Kaishiki Nishada
+n3 Kakali Nishada
+
+s, r1, r2=g1, r3=g2, g3, m1, m2, p, d1, d2=n1, d3=n2, n3
+
+=======
+Octaves:
+lower s to higher S is an octave
+
+lower octave = Mandra Sthayi = chest voice
+middle octave = Madhya Sthayi = throat voice
+higher octave = Tara Syhayi = head voice
+=======
+Shruti = Pitch
+There are 22 theoretical positions (22 'kattai's).
+12 are practical.
+
+Western notations for these 12 positions and their numberings.
+1   C
+1.5 C#
+2   D
+2.5 D#
+3   E
+4   F
+4.5 F#
+5   G
+5.5 G#
+6   A
+6.5 A#
+7   B
+
+Male singers: Pitch will be from C to D. i.e, 1 -> 2 (C or C# generally)
+Female singers: Pitch will be from F to A. i.e, 4 -> 6 (G or G# generally)
+Instruments: D, D# or E generally
+
+=======
+Melakartas:
+
+Combinations of Rishaba and Gandhara
+0 r1 g1
+1 r1 g2
+2 r1 g3
+3 r2 g2
+4 r2 g3
+5 r3 g3
+
+Combinations of Madhyama
+m1 <=36
+m2 > 36
+
+Combinations of Dhaivata and Nishada
+0 d1 n1
+1 d1 n2
+2 d1 n3
+3 d2 n1
+4 d2 n2
+5 d3 n3
+
+s, p and S are fixed
+
+Number of possible melakartas are 6 * 2 * 6 = 72
+
+=======
+Ka-ta-pa-ya-di Sankhya
+
+1  2   3   4   5   6  7   8  9   0
+ka kha gha gha nga ca cha ja jha nya
+ta tha da  dha na  ta tha da dha na
+pa pha ba  bha ma
+ya ra  la  va  sha sha sa ha
+
+Melakarta Number is first 2 syllable reversed.
+Example: Mayamalavagowla
+Ma = 5
+Ya = 1
+Melakarta number: 15
+
+15 < 36 -> m1
+
+15 - 1 = 14
+14/6
+quotient = 2 (r1 g3)
+remainder = 2 (d1 n3)
+
+s p are fixed
+
+So, Mayamalavagowla is `s r1 g3 m1 p d1 n3 S`
+=======

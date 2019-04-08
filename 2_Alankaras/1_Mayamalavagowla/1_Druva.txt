@@ -1,0 +1,22 @@
+Raga: Mayamalavagowla (Melakarta 15) (s r1 g3 m1 p d1 n3 S)
+Taala: Druva Chaturashra Jaati
+14 Letters
+
+| - - - | 0 | - - - | - - -
+
+s r g m | g r | s r g r | s r g m ||
+r g m p | m g | r g m g | r g m p ||
+g m p d | p m | g m p m | g m p d ||
+m p d n | d p | m p d p | m p d n ||
+p d n S | n d | p d n d | p d n S ||
+S n d p | d n | S n d n | S n d p ||
+n d p m | p d | n d p d | n d p m ||
+d p m g | m p | d p m p | d p m g ||
+p m g r | g m | p m g m | p m g r ||
+m g r s | r g | m g r g | m g r s ||
+
+Line 4, 5 and 6 in trishra
+m p d | n d p | m p d | p m p |
+d n p | d n S |
+n d p | d n d | p d n | S S n |
+d p d | n S n | d n S | n d p ||

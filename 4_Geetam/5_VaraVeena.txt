@@ -1,0 +1,39 @@
+Song: Vara Veena (Geetam)
+Raga: Mohana
+Janya: Harikambodhi (Melakarta 28) (s r2 g3 m1 p d2 n2 S)
+or Dheera Shankarabharanam (Melakarta 29) (s r2 g3 m1 p d2 n3 S)
+Arohana:   s r2 g3 p  d2 S
+Avarohana: S d2 p  g3 r2 s
+Composer: Appayya Dikshitar
+Language: Kannada
+Tala: Roopaka Chaturashra Jaati
+
+g  g  | p   -   p   - || d   p  | S   - S  - ||
+va ra | vee -   na  - || mru du | pa  - ni - ||
+
+R  S  | d   d   p   - || d   p  | g   - r  - ||
+va na | ru  ha  lo  - || cha na | raa - ni - ||
+
+g  p  | d   S   d   - || d   p  | g   - r  - ||
+su ru | chi ra  bam - || bha ra | ve  - ni - ||
+
+g   g | d   p   g   r || p   g  | g  r  s  - ||
+su ra | nu  tha kal - || ya  -  | -  -  ni - ||
+
+g  g  | g  g  r   g   || p   g  | p  -  p  - ||
+ni ru | pa ma shu bha || gu  na | lo -  le - ||
+
+g  g  | d   p   d   - || d   p  | S   - S  - ||
+ni ru | ta  ja  ya  - || pra da | she - le - ||
+
+d  G  | R   G  R   S  || d   S  | d  d d  p  ||
+va ra | da  -  pri ya || ran ga | na - ya ki ||
+
+g  p  | d  S   d   p  || d   p  | g  g r  s  ||
+va an | ci ta  pha la || da  -  | -  - ya ki ||
+
+s  r  | g   -   g   - || g   r  | p  g  r  - ||
+sa ra | si  -   ja  - || sa  na | ra -  ni - ||
+
+s  r  | s   g   r  s  || r   .d | s  -  s  - ||
+ja ya | ja  ya  ja ya || ja  ya | va -  ni - ||

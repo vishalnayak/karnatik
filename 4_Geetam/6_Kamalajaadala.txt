@@ -1,0 +1,32 @@
+Song: Kamala Jaadala (Geetam)
+Raga: Mecha Kalyani (Melakarta 65) (s r2 g3 m2 p d2 n3 S)
+Arohana:   s r2 g3 m2 p d2 n3 S
+Avarohana: S n3 d2 p m2 g3 r2 s
+Composer: Purandaradasa
+Language: Sanskrit
+Tala: Triputa Trishra Jaati
+
+
+S  S  S  | n    d | n  S  || n   d  p   | d  p  | m  p  ||
+ka ma la | jaa  - | da la || vi  ma la  | su na | ya na ||
+
+g  m  p  | p   d  | d  n  || d   p  m   | p   g | r   s ||
+ka ri va | ra  da | ka ru || naa -  mbu | dhe - | -   - ||
+
+.d .n .d | g   r  | g   - || m   p   -  | m   g | r   s ||
+ka ru na | sha ra | dhe - || ka  ma  -  | laa - | -   - ||
+
+r   s  r | s   -  | -  -  ||
+kan -  - | tha -  | -  -  ||
+
+g  m p   | m   p  | d   p || n   d   p  | d   p | m  p  ||
+ke - shi | na  ra | kaa - || su  ra  vi | bhe - | da na ||
+
+g  m  p  | p   d  | d   n || d   p   m  | p   g | r   s  ||
+va ra dha| ve  -  | la  a || su  ra  pu | ro  - | tta ma ||
+
+.d .n .d | g   r  | g   - || m   p   -  | m   g | r   s  ||
+ka ru na | sha ra | dhe - || ka  ma  -  | laa - | -   -  ||
+
+r   s  r | s   -  | -  -  ||
+kan -  - | tha -  | -  -  ||

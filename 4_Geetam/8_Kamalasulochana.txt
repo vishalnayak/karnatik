@@ -1,0 +1,35 @@
+Song: Kamalasulochana (Geetam)
+Raga: Anandabhairavi
+Janya: Nathabhairavi (Melakarta 20) (s r2 g2 m1 p d1 n2 S)
+Arohana:   s g2 r2 g2 m1 p  d2 p n2 S
+Avarohana: S n2 d2 p  m1 g2 r2 s
+Composer: Purandaradasa
+Language: Sanskrit
+Tala: Adi
+
+n   d   n  S  | S   - | S   S  || G   R  S  n   | n   d  | p   m  ||
+ka  ma  la su | lo  - | cha na || vi  ma la tha | ta  -  | ki  ni ||
+
+p   p   p  d  | n   d | p   m  || m   p   p  m  | g   r  | s   -  ||
+ma  ra  -  la | g   - | mi  ni || ka  ri  ha ra | ma  -  | dye -  ||
+
+s    -  n   - | s   g | g   m  || g   m  p    m | g   r  | s   -  ||
+bim  -  ba  - | -   - | na  na || vi  du man  - | da  la | re  -  ||
+
+p    -  m  g  | m   - | g   r  || g   -  r   n  | s   -  | s   -  ||
+chan -  da la | kum - | ku  ma || sam -  ka  li | tha -  | -   -  ||
+
+p   p   m  g  | m   m | g   r  || g   g  r  n   | s   -  | s   -  ||
+pa  ri  ma la | ka  - | stu ri || thi la ka dha | re  -  | re  -  ||
+
+s   g   r  g  | m   g | m   -  || p  n   d  n   | p   d  | n  S   ||
+ja  -   -  ji | sai - | ya  -  || ka cha ku cha | gha na | ja ga  ||
+
+G   R   S  n  | n   d | p   m  || p   p   p  d  | n   d  | p  m   ||
+nam -   -  -  | bo  - | -   ja || ma  ra  -  la | ga  -  | mi ni  ||
+
+m   p   m  p  | g   r | s    - || s   -  n   -  | s   g  | g  m   ||
+ka  ri  ha ra | ma  - | dhye - || bim -  ba  -  | -   -  | na na  ||
+
+g   m   p   m | g  r  | s    - ||
+vi  du  man - | da la | re   - ||

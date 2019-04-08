@@ -1,0 +1,32 @@
+Song: Kereya Neranu (Geetam)
+Raga: Malahari
+Janya: Mayamalavagowla (Melakarta 15) (s r1 g3 m1 p d1 n3 S)
+Arohana: s r1 m1 p d1 S
+Avarohana: S d1 p m1 g3 r1 s
+Composer: Purandaradasa
+Language: Kannada
+Tala: Triputa Trishra Jaati
+
+d  S  S   |  d  p   |  m  p  ||  d  d  p   |  m  m   |  p  -   ||
+ke re ya  |  nee-   |  ra nu ||  ke re ge  |  cal-   |  li -   ||
+
+d  d  S   |  d  p   |  m  p  ||  d  d  p   |  m  g   |  r  s   ||
+va ra va  |  pa de  |  da va ||  ran-  te  |  ka -   |  ni ro  ||
+
+s  r  r   |  s  r   |  s  r  ||  d  d  p   |  m  g   |  r  s   ||
+ha ri ya  |  ka ru  |  na do ||  laa-  da  |  bha-   |  gyava  ||
+
+d  p  d   |  S  -   |  d  p  ||  d  d  p   |  m  g   |  r  s   ||
+ha ri sa  |  mar-   |  pa ne ||  ma -  di  |  ba du  |  ki ro  ||
+
+d  S  S   |  d  p   |  m  p  ||  d  d  p   |  m  -   |  p  p   ||
+shree pu  |  ran-   |  da ra ||  vi thala  |  ra -   |  ya na  ||
+
+d  d  S   |  d  p   |  m  p  ||  d  d  p   |  m  g   |  r  s   ||
+ca ra na  |  ka ma  |  la va ||  nam-  bi  |  ba du  |  ki ro  ||
+
+s  r  r   |  s  r   |  s  r  ||  d  d  p   |  m  g   |  r  s   ||
+ha ri ya  |  ka ru  |  na do ||  laa-  da  |  bha-   |  gyava  ||
+
+d  p  d   |  S  -   |  d  p  ||  d  d  p   |  m  g   |  r  s   ||
+ha ri sa  |  mar-   |  pa ne ||  maa-  di  |  ba du  |  ki ro  ||
