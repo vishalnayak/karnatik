@@ -2,11 +2,11 @@ Song: Vara Veena (Geetam)
 Raga: Mohana
 Janya: Harikambodhi (Melakarta 28) (s r2 g3 m1 p d2 n2 S)
 or Dheera Shankarabharanam (Melakarta 29) (s r2 g3 m1 p d2 n3 S)
-Arohana:   s r2 g3 p  d2 S
-Avarohana: S d2 p  g3 r2 s
 Composer: Appayya Dikshitar
 Language: Kannada
 Tala: Roopaka Chaturashra Jaati
+Arohana:   s r2 g3 p  d2 S
+Avarohana: S d2 p  g3 r2 s
 
 g  g  | p   -   p   - || d   p  | S   - S  - ||
 va ra | vee -   na  - || mru du | pa  - ni - ||

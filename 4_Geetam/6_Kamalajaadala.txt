@@ -1,11 +1,10 @@
 Song: Kamala Jaadala (Geetam)
 Raga: Mecha Kalyani (Melakarta 65) (s r2 g3 m2 p d2 n3 S)
-Arohana:   s r2 g3 m2 p d2 n3 S
-Avarohana: S n3 d2 p m2 g3 r2 s
 Composer: Purandaradasa
 Language: Sanskrit
 Tala: Triputa Trishra Jaati
-
+Arohana:   s r2 g3 m2 p d2 n3 S
+Avarohana: S n3 d2 p m2 g3 r2 s
 
 S  S  S  | n    d | n  S  || n   d  p   | d  p  | m  p  ||
 ka ma la | jaa  - | da la || vi  ma la  | su na | ya na ||

@@ -1,11 +1,11 @@
 Song: Mandharadhare (Geetam)
 Raga: Kambhodhi
 Janya: Harikambodhi (Melakarta 28) (s r2 g3 m1 p d2 n2 S)
-Arohana: s r2 g3 m1 p d2 S
-Avarohana: S n2 d2 p m1 g3 r2 S (.n3 .p .d2 s)
 Composer: Paidala Gurumurti Sastri
 Language: Sanskrit
 Tala: Adi
+Arohana: s r2 g3 m1 p d2 S
+Avarohana: S n2 d2 p m1 g3 r2 S (.n3 .p .d2 s)
 
 S   -   n3   p | d   -   S   -  ||
 ma  n   da  ra | dha -   re  -  ||
