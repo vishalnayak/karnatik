@@ -25,14 +25,14 @@ Anupallavi
 g   - g  - | p  - | - - || g  g p p | d d  | p   - ||
 nan - nu - | pa - | - - || li - - - | - im | pa  - ||
 
-d  S  d d | p  g | d  p || d g  d p | g  r | s   r ||
-sa ma - - | -  - | ya - || - mu - - | ra - | -   - ||
+d  S d  d | p  g | d  p || d g  d p | g  r | s   r ||
+sa - ma - | -  - | ya - || - mu - - | ra - | -   - ||
 
 g  g p p | d  p | d   S || d S  R S | G   R | - S  ||
 na - - - | -  - | mee - || - da - - | kru - | - pa ||
 
-d  S R  S | -  d  | p  d || S  d d  p | g r | s  r ||
--  - ju - | -  da | -  - || ra - -  - | - - | -  - ||
+d S R  S | -  d  | p  d || S  d d  p | g  r | s  r ||
+- - ju - | -  da | -  - || ra - -  - | -  - | -  - ||
 
 Mukthayi Swaram
 g  -  r g | r  s | r  - || s  r  s g | r  g | s  r ||
