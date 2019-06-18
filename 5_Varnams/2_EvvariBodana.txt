@@ -7,15 +7,15 @@ Tala: Adi
 Arohana:   s r2 g2 m1 d2 S
 Avarohana: S d2 m1 g2 r2 s
 
-r - g - | g r | s - || s r s s | d m | d - ||
-ev - va - ri - - - bo - - - dha - - - ||
-m d s d | - s | - d || s r g -  - m g g r s |
-na - - - - - vi - - - - ni - - - - ||
+r  -  g  -  | g  r | s  - || s  r s s  | .d  .m | .d - ||
+ev -  va -  | ri - | -  - || bo - - -  | dha -  | -  - ||
+.m .d s  .d | -  s | .d s || r  g - m  | g   g  | r  s ||
+na -  -  -  | -  - | vi - || -  - - ni | -   -  | -  - ||
 
-r g m- g - m- r g s r - d s r g m |
-ee - - - - - la - - - - gu - - - - ||
-d m d s - s- d s d m - g m g r s |
-je - - - - - se - - - - vu - ra - - ||
+r  g  m  r  | -  g | r  g || s  r - .d | s   r  | g  m || 
+ee -  -  -  | -  - | la - || -  - - gu | -   -  | -  - ||
+d  m  d  S  | -  S | d  S || d  m - d  | m   g  | r  s ||
+je -  -  -  | -  - | se - || -  - - vu | -  ra  | -  - ||
 
 s s d- d - m- d d m- g - r g m r g |
 ja - - va - - mu - - ga - - nan - - - ||
