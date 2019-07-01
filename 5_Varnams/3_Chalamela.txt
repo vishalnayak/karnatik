@@ -7,30 +7,50 @@ Tala: Adi
 Arohana:   s r2 g3 m1 n2 d2 n2 p d2 n2 S
 Avarohana: S n2 d2 m1 g3 m1 p  g3 r2 s
 
-m   -  g  - | s  -  | -   - || s  .n .d .n | .p .d | .n - ||
-cha -  la - | me -  | -   - || -  -  -  -  | -  -  | -  - ||
-s   -  -  - | -  -  | .n .d || .n  s .n .d | .n  s | r  g ||
-la  -  -  - | -  -  | je  - || -  -  Se -  | vai - | ya - ||
+m   -  g  - | s  -  | -   - || s  .n .d .n | .p .d | .n  - ||
+cha -  la - | me -  | -   - || -  -  -  -  | -  -  | -   - ||
+s   -  -  - | -  -  | .n .d || .n  s .n .d | .n  s | r   g ||
+la  -  -  - | -  -  | je  - || -  -  Se -  | vai - | ya  - ||
 
-m   g  s  r | g  m  |  n  d || m  g  m  n  | d   p | d  n ||
-cha - - kka | -  -  |  n  - || -  m  -  -  | -   - | -  - ||
-S   n  d  p | d  n  |  d  m || g  s  .n .d | .n  s | r  g ||
-ran -  -  - | -  -  |  -  - || gai -  -  - | -   - | ya - ||
-S   -  n  d | n  p  |  d  n || S  n  d  m  | p   g | r  s ||
-ka  -  la - | -  ka |  -  - || la -  -  mu | -   - | -  - ||
-m   g  m  p | g  m  |  n  d || n  p  d  n  | S   - | -  - ||
-nee -  -  - | pa -  |  -  - || da -  mu -  | le  - | -  - ||
-n   S  R  G | M  G  |  S  R || S  n  S  n  | d   p | d  n ||
-ga  -  -  - | -  -  | ti  - || -  ya -  -  | ni  - | -  - ||
-S   -  n  d | m  m  |  g  s || s  s  .n .d | .n  s | r  g ||
-nam -  -  - | -  mi |  -  - || yun -  -  - | da  - | ga - ||
+m   g  s  r | g  m  |  n  d || m  g  m  n  | d   p | d   n ||
+cha - - kka | -  -  |  mu - || -  ma -  -  | -   - | -   - ||
+S   n  d  p | d  n  |  d  m || g  s  .n .d | .n  s | r   g ||
+ran - - gai | -  -  |  -  - || ya -  -  -  | -   - | -   - ||
+S   -  n  d | n  p  |  d  n || S  n  d  m  | p   g | r   s ||
+ka  -  la - | -  ka |  -  - || la -  -  mu | -   - | -   - ||
+m   g  m  p | g  m  |  n  d || n  p  d  n  | S   - | -   - ||
+nee -  -  - | pa -  |  -  - || da -  mu -  | le  - | -   - ||
+n   S  R  G | M  G  |  S  R || S  n  S  n  | d   p | d   n ||
+ga  -  -  - | -  -  | ti  - || -  ya -  -  | ni  - | -   - ||
+S   -  n  d | m  m  |  g  s || s  s  .n .d | .n  s | r   g ||
+nam -  -  - | -  mi |  -  - || yun -  -  - | da  - | ga  - ||
 
 m   m  g  s | .n .d | .n  s || r  r  s  .n | .d .p | .d .n ||
 s  .n .d .m | .n .d | .n .p || .d .n s  r  | .n  s | r   g ||
 m  m  g  s  | r  g  | m   n || d  m  g  m  | n   d | n   S ||
-R  G  M  G  | S  -  | S   n || d  m  -  m  | g   s | r   g ||
+R  G  M  S  | -  -  | S   n || d  m  -  m  | g   s | r   g ||
 
 n  -  d  -  | n  -  | -   - || S  n  d  n  | p   d | n   - ||
-nan -  nu - | bro - | -   - || -  -  va -  | - nee | -   - ||
+nan -  nu - | bro - | -   - || va  -  - -  | - nee | -   - ||
 S  -  -  -  | -  -  | n   R || S  n  d  S  | n  d  | m   - ||
 ku -  -  -  | -  -  | ba  - || -  -  ra -  | -  -  | ma  - ||
+
+d  -  -  n  | -   d  | -  m || g  -  -  s  | -  r  | s  .n ||
+.d -  - .m  | -  .n  |.d .n || s  -  - .n  | s  r  | g   m ||
+
+n  -  d  p  | d  n  | d   - || m  g  -  m  | p  g  | r   s ||
+.n - .d .n  | s  r  | s   - || r  g  m  n  | d  m  | g   m ||
+
+n  -  -  s  | -  -  | n   r || S  n  d  n  | S  d  | n   p ||
+d  -  -  m  | -  -  | r   g || m  g  s .n  | r  s  | .n .d ||
+.n -  -  s  | -  -  | r   g || m  g  m  n  | d  n  | p   d ||
+n  -  -  S  | -  -  | R   G || M  G  S  n  | R  S  | n   d ||
+
+S  -  -  -  | -  -  | R   G || M  G  S  n  | R  S  | n   d ||
+n  -  -  -  | -  -  | p   d || n  S  n  d  | m  p  | g   r ||
+s  -  -  -  | -  -  | .n .d || .n s .n  .d | .n s  | r   g ||
+m  -  -  -  | -  -  | r   g || m  p  m  g  | m  n  | d   n ||
+S  -  R  S  | n  d  | n   - || S  d  n  p  | d  -  | p   m ||
+g  -  m  p  | g  m  | n   - || d  m  n  d  | n  p  | d   n ||
+S  R  G  M  | G  S  | n   R || S  n  d  n  | d  p  | d   n ||
+S  d  p  g  | m  p  | g   r || s .n .d .n  | s  r  | g   m ||
