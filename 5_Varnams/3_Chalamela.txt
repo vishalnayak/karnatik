@@ -13,10 +13,10 @@ s   -  -  - | -  -  | .n .d || .n  s .n .d | .n  s | r   g ||
 la  -  -  - | -  -  | je  - || -  -  Se -  | vai - | ya  - ||
 
 m   g  s  r | g  m  |  n  d || m  g  m  n  | d   p | d   n ||
-cha - - kka | -  -  |  mu - || -  ma -  -  | -   - | -   - ||
+cha - - kka | -  -  |  ni - || -  ma -  -  | -   - | -   - ||
 S   n  d  p | d  n  |  d  m || g  s  .n .d | .n  s | r   g ||
 ran - - gai | -  -  |  -  - || ya -  -  -  | -   - | -   - ||
-S   -  n  d | n  p  |  d  n || S  n  d  m  | p   g | r   s ||
+S   -  n  d | n  p  |  d  n || S  n  d  m  | p   g | r   s  ||
 ka  -  la - | -  ka |  -  - || la -  -  mu | -   - | -   - ||
 m   g  m  p | g  m  |  n  d || n  p  d  n  | S   - | -   - ||
 nee -  -  - | pa -  |  -  - || da -  mu -  | le  - | -   - ||
@@ -41,7 +41,7 @@ d  -  -  n  | -   d  | -  m || g  -  -  s  | -  r  | s  .n ||
 n  -  d  p  | d  n  | d   - || m  g  -  m  | p  g  | r   s ||
 .n - .d .n  | s  r  | s   - || r  g  m  n  | d  m  | g   m ||
 
-n  -  -  s  | -  -  | n   r || S  n  d  n  | S  d  | n   p ||
+n  -  -  S  | -  -  | n   R || S  n  d  n  | S  d  | n   p ||
 d  -  -  m  | -  -  | r   g || m  g  s .n  | r  s  | .n .d ||
 .n -  -  s  | -  -  | r   g || m  g  m  n  | d  n  | p   d ||
 n  -  -  S  | -  -  | R   G || M  G  S  n  | R  S  | n   d ||
