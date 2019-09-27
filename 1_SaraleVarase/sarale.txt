@@ -70,7 +70,7 @@ S n d p | m g | r s ||
 
 s r g m | p - | p - ||
 d d p - | m m | p - ||
-n n d - | d n | s - ||
+n n d - | d n | S - ||
 S n d p | m g | r s ||
 
 s r g m | p - | g m ||

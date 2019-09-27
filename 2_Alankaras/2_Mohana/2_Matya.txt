@@ -12,4 +12,4 @@ r g p g | r g | r g p d ||
 g p d p | g p | g p d S ||
 S d p d | S d | S d p g ||
 d p g p | d p | d p g r ||
-p g r s | r g | p g r s ||
+p g r g | p g | p g r s ||

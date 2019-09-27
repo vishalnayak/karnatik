@@ -25,7 +25,8 @@ m  m  g  s  | r  g   m   n | d  m  g  m  | n   d  n   S | R  G  M  S  | -  -   S
 n  -  d  -  | n  -   -   - | S  n  d  n  | p   d  n   - | S  -  -  -  | -  -   n   R | S  n  d  S  | n  d   m   - ||
 nan -  nu - | bro -  -   - | va  -  - -  | - nee  -   - | ku -  -  -  | -  -   ba  - | -  -  -  ra | -  -   ma  - ||
 
-d  -  -  n  | -   d   -  m | g  -  -  s  | -  r   s  .n | .d -  - .m  | -  .n  .d .n | s  -  - .n  | s  r   g   m ||
+d  -  -  -  | -   -   n  - | -  -  d  -  | -   -   m  - | g  -  -  -  | -  -   s  -  | -  -  r  -  | s  -  .n   - ||
+.d -  -  -  | -   -  .m  - | -  - .n  -  | .d  -  .n  - | s  -  -  -  | -  -  .n  -  | s  -  r  -  | g  -   m   - ||
 
 n  -  d  p  | d  n   d   - | m  g  -  m  | p  g   r   s | .n - .d .n  | s  r   s   - | r  g  m  n  | d  m   g   m ||
 

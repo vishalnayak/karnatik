@@ -14,4 +14,4 @@ r g | r g p d ||
 g p | g p d S ||
 S d | S d p g ||
 d p | d p g r ||
-p g | p g r S ||
+p g | p g r s ||

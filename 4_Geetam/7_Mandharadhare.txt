@@ -7,38 +7,38 @@ Tala: Adi
 Arohana: s r2 g3 m1 p d2 S
 Avarohana: S n2 d2 p m1 g3 r2 S (.n3 .p .d2 s)
 
-S   -   n3   p | d   -   S   -  ||
-ma  n   da  ra | dha -   re  -  ||
+S   -   n3   p | d   -  | S   -  ||
+ma  n   da  ra | dha -  | re  -  ||
 
-d   S   R   M  | G   G   R   S  ||
-mo  -  ksha mu | ra  -   -   re ||
+d   S   R   M  | G   G  | R   S  ||
+mo  -  ksha mu | ra  -  | -   re ||
 
-S   R   S   S  | n   -   d   p  ||
-dy  th  ya  ku | la  an  ta  ka ||
+S   R   S   S  | n   -  | d   p  ||
+dy  th  ya  ku | la  an | ta  ka ||
 
-d   -   p   m  | g   m   p   -  ||
-pa  -   va  na | mu  -   rthe-  ||
+d   -   p   m  | g   m  | p   -  ||
+pa  -   va  na | mu  -  | rthe-  ||
 
-g   p   d   S  | n   -   d  p   ||
-pa  da shu  bha| re  -   -  kha ||
+g   p   d   S  | n   -  | d  p   ||
+pa  da shu  bha| re  -  | -  kha ||
 
-d   d   p   m  | g   -   r   s  ||
-ma  ku  ta  ma | yu  -   -   ra ||
+d   d   p   m  | g   -  | r   s  ||
+ma  ku  ta  ma | yu  -  | -   ra ||
 
-g   p   p   d  | d   S   S   R  ||
-aa  -   -   -  | -   -   -   -  ||
+g   p   p   d  | d   S  | S   R  ||
+aa  -   -   -  | -   -  | -   -  ||
 
-R   P   M   G  | R   G   R   S  ||
-aa  -   -   -  | -   -   -   -  ||
+R   P   M   G  | R   G  | R   S  ||
+aa  -   -   -  | -   -  | -   -  ||
 
-S   R   S   S  | n   -   d   p  ||
-dy  th  ya  ku | la  an  tha ka ||
+S   R   S   S  | n   -  | d   p  ||
+dy  th  ya  ku | la  an | tha ka ||
 
-d   -   p   m  | g   m   p   -  ||
-pa  -   va  na | mu  -  rthe -  ||
+d   -   p   m  | g   m  | p   -  ||
+pa  -   va  na | mu  -  |rthe -  ||
 
-g   p   d   S  | n   -   d   p  ||
-pa  da shu  bha| re  -   -  kha ||
+g   p   d   S  | n   -  | d   p  ||
+pa  da shu  bha| re  -  | -  kha ||
 
-d   d   p   m  | g   -   r   s  ||
-ma  ku  ta  ma | yu  -   -   ra ||
+d   d   p   m  | g   -  | r   s  ||
+ma  ku  ta  ma | yu  -  | -   ra ||
