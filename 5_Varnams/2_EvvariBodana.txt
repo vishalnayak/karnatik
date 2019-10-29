@@ -14,7 +14,7 @@ na -  -  -  | -  - | vi - || -  - - ni | -  -  | -  - ||
 
 r  g  m  g  | -  m | r  g || s  r - .d | s  r  | g  m ||
 ee -  -  -  | -  - | la - || -  - - gu | -  -  | -  - ||
-d  m  d  S  | -  S | d  S || d  m - d  | m  g  | r  s ||
+d  m  d  S  | -  S | d  S || d  m - g  | m  g  | r  s ||
 je -  -  -  | -  - | se - || -  - - vu | - ra  | -  - ||
 
 s  s  d  d  | -  m | d  d || m  g  - r | g  m  | r  g ||
