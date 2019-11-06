@@ -12,19 +12,19 @@ ev -  va -  | ri - | -  - || bo - - -  |dha -  | -  - ||
 .m .d s  .d | -  s | .d s || r  g - m  | g  g  | r  s ||
 na -  -  -  | -  - | vi - || -  - - ni | -  -  | -  - ||
 
-r  g  m  g  | -  m | r  g || s  r - .d | s  r  | g  m ||
+r  g  m  r  | -  g | r  g || s  r - .d | s  r  | g  m ||
 ee -  -  -  | -  - | la - || -  - - gu | -  -  | -  - ||
-d  m  d  S  | -  S | d  S || d  m - g  | m  g  | r  s ||
+d  m  d  S  | -  S | d  S || d  m - d  | m  g  | r  s ||
 je -  -  -  | -  - | se - || -  - - vu | - ra  | -  - ||
 
-s  s  d  d  | -  m | d  d || m  g  - r | g  m  | r  g ||
+S  S  d  d  | -  m | d  d || m  g  - r | g  m  | r  g ||
 ja -  -  va | -  - | mu - || -  ga - - |nan -  | -  - ||
-s  r  g  m  | -  m | d  m || g  r  g m | d  d  | s  - ||
+s  r  g  m  | -  m | d  m || g  r  g m | d  d  | S  - ||
 ne -  -  la | -  - | ra - || -  - se - | -  -  |sha - ||
 
-d   s  r s  | -  r | g  m || r g  - m  | g  g  | r  s ||
+d   S  R S  | -  R | G  M || R G  - M  | G  G  | R  S ||
 cha -  - le | -  - | ndra-|| - - - sree| -  -  | -  - ||
-r   g  r  s | r  d | r  s || s  d m  d | m  g  | r  s ||
+R   G  R  S | R  d | R  S || S  d m  d | m  g  | r  s ||
 ven -  - -  | - ka | -  - || te - - swa| -  ra | -  - ||
 
 r   g  m  r | -  g | s  r || g  s -  r | s   d | m  d ||
