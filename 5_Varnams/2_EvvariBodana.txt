@@ -17,9 +17,9 @@ ee -  -  -  | -  - | la - || -  - - gu | -  -  | -  - ||
 d  m  d  S  | -  S | d  S || d  m - d  | m  g  | r  s ||
 je -  -  -  | -  - | se - || -  - - vu | - ra  | -  - ||
 
-S  S  d  d  | -  m | d  d || m  g  - r | g  m  | r  g ||
+S  -  d  d  | -  m | d  - || m  g  - r | g  m  | r  g ||
 ja -  -  va | -  - | mu - || -  ga - - |nan -  | -  - ||
-s  r  g  m  | -  m | d  m || g  r  g m | d  d  | S  - ||
+s  r  g  m  | -  - | d  m || g  r  g m | d  d  | S  - ||
 ne -  -  la | -  - | ra - || -  - se - | -  -  |sha - ||
 
 d   S  R S  | -  R | G  M || R G  - M  | G  G  | R  S ||
