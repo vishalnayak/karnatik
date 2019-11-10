@@ -23,7 +23,7 @@ r   g  m  r | -  g  s  r | g  s -  r | s .d  .m .d | s  .d  s  r | -  r  g  s | 
 
 r   g  m  g | -  m  d  m | d  S -  R | G   S  R  G | M   G  R  G | -  R  S  d | R  S -  d | m   g  r  s ||
 
-m   -  d  m | d  -  -  - | d  S d  m | d   d  S  - | d   s  d  d | m  -  g  m | g  r s  r | g   s  r  g ||
+m   -  d  m | d  -  -  - | d  S d  m | d   d  S  - | d   S  d  d | m  -  g  m | g  r s  r | g   s  r  g ||
 ma  - ru  - | ba -  -  - | -  - -  - | ri  -  -  - | ko  -  -  - |rva - ja  - |la  - -  nu| -  ra  -  - ||
 
 m   -  -  - | -  -  d  - | m  - d  - | -   -  S  - | d   -  m  - | -  -  g  - | r  - s  - | -   r  -  g ||
