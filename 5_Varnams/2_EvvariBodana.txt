@@ -7,47 +7,30 @@ Tala: Adi
 Arohana:   s r2 g2 m1 d2 S
 Avarohana: S d2 m1 g2 r2 s
 
-r  -  g  -  | g  r | s  - || s  r s s  | .d .m | .d - ||
-ev -  va -  | ri - | -  - || bo - - -  |dha -  | -  - ||
-.m .d s  .d | -  s | .d s || r  g - m  | g  g  | r  s ||
-na -  -  -  | -  - | vi - || -  - - ni | -  -  | -  - ||
+r  -  g  -  | g  r  s  - | s  r s s  | .d .m  .d - | .m .d s  .d | -  s  .d s | r  g - m  | g  g   r  s ||
+ev -  va -  | ri -  -  - | bo - - -  |dha -   -  - | na -  -  -  | -  -  vi - | -  - - ni | -  -   -  - ||
 
-r  g  m  r  | -  g | r  g || s  r - .d | s  r  | g  m ||
-ee -  -  -  | -  - | la - || -  - - gu | -  -  | -  - ||
-d  m  d  S  | -  S | d  S || d  m - d  | m  g  | r  s ||
-je -  -  -  | -  - | se - || -  - - vu | - ra  | -  - ||
+r  g  m  r  | -  g  r  g | s  r - .d | s  r   g  m | d  m  d  S  | -  S  d  S | d  m - d  | m  g   r  s ||
+ee -  -  -  | -  -  la - | -  - - gu | -  -   -  - | je -  -  -  | -  -  se - | -  - - vu | - ra   -  - ||
 
-S  -  d  d  | -  m | d  - || m  g  - r | g  m  | r  g ||
-ja -  -  va | -  - | mu - || -  ga - - |nan -  | -  - ||
-s  r  g  m  | -  - | d  m || g  r  g m | d  d  | S  - ||
-ne -  -  la | -  - | ra - || -  - se - | -  -  |sha - ||
+S  -  d  d  | -  m  d  - | m  g  - r | g  m   r  g | s  r  g  m  | -  m  d  m | g  r  g m | d  d   S  - ||
+ja -  -  va | -  -  mu - | -  ga - - |nan -   -  - | ne -  -  la | -  -  ra - | -  - se - | -  -  sha - ||
 
-d   S  R S  | -  R | G  M || R G  - M  | G  G  | R  S ||
-cha -  - le | -  - | ndra-|| - - - sree| -  -  | -  - ||
-R   G  R  S | R  d | R  S || S  d m  d | m  g  | r  s ||
-ven -  - -  | - ka | -  - || te - - swa| -  ra | -  - ||
+d   S  R S  | -  R  G  M | R G  - M  | G  G   R  S | R   G  R  S | R  d  R  S | S  d m  d | m  g   r  s ||
+cha -  - le | -  -  ndra-| - - - sree| -  -   -  - | ven -  - -  | - ka  -  - | te - - swa| -  ra  -  - ||
 
-r   g  m  r | -  g | s  r || g  s -  r | s   d | m  d ||
-s   d  s  r | -  r | g  s || r  m -  d | m   g | r  s ||
+r   g  m  r | -  g  s  r | g  s -  r | s .d  .m .d | s  .d  s  r | -  r  g  s | r  m -  d | m   g  r  s ||
 
-r   g  m  g | -  m | d  m || d  s -  r | g   s | r  g ||
-m   g  r  g | -  r | s  d || r  s -  d | m   g | r  s ||
+r   g  m  g | -  m  d  m | d  S -  R | G   S  R  G | M   G  R  G | -  R  S  d | R  S -  d | m   g  r  s ||
 
-m   -  d  m | d  - | -  - || d  s d  m | d   d | s  - ||
-ma  - ru  - | ba - | -  - || -  - -  - | ri  - | -  - ||
-d   s  d  d | m  - | g  m || g  r s  r | g   s | r  g ||
-ko  -  -  - |rva - |ja  - ||la  - -  nu| -  ra | -  - ||
+m   -  d  m | d  -  -  - | d  S d  m | d   d  S  - | d   s  d  d | m  -  g  m | g  r s  r | g   s  r  g ||
+ma  - ru  - | ba -  -  - | -  - -  - | ri  -  -  - | ko  -  -  - |rva - ja  - |la  - -  nu| -  ra  -  - ||
 
-m   -  -  - | -  - | d  - || m  - d  - | -   - | s  - ||
-d   -  m  - | -  - | g  - || r  - s  - | -   r | -  g ||
+m   -  -  - | -  -  d  - | m  - d  - | -   -  S  - | d   -  m  - | -  -  g  - | r  - s  - | -   r  -  g ||
 
-m   d  s  d | -  m | d  m || g  r -  g | m   g | r  s ||
-d   s  -  r | g  m | d  s || -  d m  g | r   s | r  g ||
+m   d  S  d | -  m  d  m | g  r -  g | m   g  r  s | .d  s  -  r | g  m  d  S | -  d m  g | r   s  r  g ||
 
-d   s  d  m | g  r | g  m || d  m g  r | g   s | r  s ||
-r   g  m  d | s  r | g  r || s  d m  g | r   s | r  g ||
+d   S  d  m | g  r  g  m | d  m g  r | g   s  r  s | r   g  m  d | S  R  G  R | S  d m  g | r   s  r  g ||
 
-s   -  -  s | -  s | r  g || s  r -  r | s   d | m  d ||
-s   -  -  s | d  r | s  d || -  s d  m | -   g | r  s ||
-r   g  m  d | -  s | r  g || m  r -  g | r   s | d  s ||
-r   s  -  d | m  d | s  d || -  m g  r | s   - | r  g ||
+s   -  -  S | -  S  R  G | S  R -  R | S   d  m  d | S   -  -  S | d  R  S  d | -  S d  m | -   g  r  s ||
+r   g  m  d | -  S  R  G | M  R -  G | R   S  d  S | R   S  -  d | m  d  S  d | -  m g  r | s   -  r  g ||
