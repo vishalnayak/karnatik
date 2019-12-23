@@ -1,0 +1,100 @@
+Song: Nera Nammithi (Varnam)
+Raga: Kanada
+Janya: Kharaharapriya (Melakarta 22) (s r2 g2 m1 p d2 n2 S)
+Composer: Poochi Srinivasa Iyengar
+Language: Telugu
+Tala: Ata
+Arohana:   s r2 p g2 m1 d2 n2 S
+Avarohana: S n2 p m1 g2 m1 r2 S
+
+-  -  -  - | -  -  -  - | r  -  p  -  | g  -  -  -  |  g  m  r  s |
+-  -  -  - | -  -  -  - | ne - ra  -  |nam -  -  -  | mi  -  -  - |
+s  n  r  s | r  -  -  - | g  m  r  r  |  s  s  n  r |  s  n  -  s |
+ti -  -  - | -  -  -  - |nay -  -  -  |  -  -  ya - |  -  -  -  - |
+n  - d  n  | s  r  g  - | -  n  d  d  |  p  m  d  p ||
+ni - - tya | -  -  -  - | -  mu -  -  |  -  -  ga - ||
+
+m  g  -  m | r  s  n  s | r  g  m  p  |  -  d  m  d | p  m  g  m  |
+- ni  -  - | nnu-  -  - | ni -  -  ra |  -  -  ja - | -  -  -  -  |
+r  s  r n  | -  s  r  g | m  p  m  d  |  n  s  p  - | n  m  p  g  |
+na -  - ya | -  -  na - | -  -  -  ni |  -  -  ru - | pa -  -  ma |
+m  d  n  s | r  s  n  r | s  n  p  n  | d  p  m  p  ||
+-  -  -  - |sun -  -  - | da -  -  ra | -  -  -  -  ||
+
+g  -  g  m | r  s  n  s | s  -  d  p  | d  -  -  -  | d  -  d  -  |
+ka -  -  - | ra -  -  - | ma -  ru -  | ni -  -  -  | -  -  -  -  |
+p  d  n  s | n  n  d  p | m  p  d  n  | d  d  p  m  | d  p  g  -  |
+gan-  -  - | -  -  -  - | na -  -  -  | -  -  -  -  |shri-  -  ni |
+d  p  g  – | m  d  -  d | m  d  n  n  | s  n  p  m  ||
+-  -  -  - | -  va -  - | sa -  -  -  |de  -  -  -  ||
+
+g  m  d  n | s  -  -  - | s  n  s  -  | r  -  g  s  | r  n  s  r  |
+va -  -  - | -  -  -  - | ma -  -  -  | na -  -  mu | -  -  -  -  |
+r  s  r  p | g  -  -  - | g  m  r  s  | n  s  n  r  | s  r  n  r  |
+to -  -  - | na -  -  - |nnu -  -  -  | ka -  -  pa | -  -  du –  |
+s  n  p  m | g  m  d  n | s  r  n  s  | -  n  p  m  ||
+-  -  ta - | ki -  de - | sa -  -  ma | -  -  ya -  ||
+
+n  d  p  m | g  m  r  s |
+mu -  -  - | ra -  -  - | r  g  m  d  | -  n  p  d  | m  p  m  g  |
+-  m  r  n | s  r  s  - | r  g  m  d  | p  m  p  g  | m  r  s  n  |
+p  n  s  r | g  m  p  m | d  n  s  p  | -  n  m  p  ||
+
+g  m  d  n | s  -  s  - | s  n  s  r  | -  r  s  r  | p  g  -  m  |
+r  s  n  s | -  r  s  n | p  m  g  m  | m  d  d  n  | n  s  s  r  |
+g  -  -  r | s  n  p  - | -  r  s  r  | n  s  p  n  ||
+
+m  p  g  m | r  s  n  s | s  -  r  -  | s  n  r  s  | p  -  p  -  |
+=  =  =  = | =  =  =  = | sa -  ra -  | su -  -  -  | da -  -  -  |
+m  p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
+ni -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
+r  n  -  s | r  g  m  d | n  s  r  n  | s  -  -  r  ||
+ko -  -  - | ni -  -  - | ya -  -  -  | du -  -  chu||
+
+s  n  p  m | g  m  d  n | s  -  r  -  | s  n  r  s  | p  -  p  -  |
+nna-  -  - | nu -  ra - | sa -  ra -  | su -  -  -  | da -  -  -  |
+m  p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
+ni -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
+r  n  -  s | r  g  m  d | n  s  r  n  | s  -  -  r  ||
+ko -  -  - | ni -  -  - | ya -  -  -  | -  -  -  du ||
+
+r  -  -  - | -  -  s  - | -  -  n  -  | r  -  s  -  | n  -  s  -  |
+p  -  -  - | -  -  m  - | p  -  n  -  | d  -  p  -  | m  -  p  -  |
+g  -  -  - | -  -  m  - | r  -  s  -  | -  -  r  -  ||
+
+g  -  m  - | d  -  n  - | s  -  r  -  | s  n  r  s  | p  -  p  -  |
+nna-  -  - | nu -  ra - | sa -  ra -  | su -  -  -  | da -  -  -  |
+m  p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
+ni -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
+r  n  -  s | r  g  m  d | n  s  r  n  | s  -  -  r  ||
+ko -  -  - | ni -  -  - | ya -  -  -  | -  -  -  du ||
+
+d  -  n  p | d  p  m  p | m  g  m  n  | d  -  n  p  | m  g  m  r  |
+s  r  g  m | d  -  n  p | d  p  n  d  | p  g  m  d  | -  n  s  -  |
+r  n  s  n | p  m  g  m | d  -  n  s  | r  g  m  r ||
+
+s  n  p  m | n  d  -  n | s  -  r  -  | s  n  r  s  | p  -  p  -  |
+nna-  -  - | nu -  ra - | sa -  ra -  | su -  -  -  | da -  -  -  |
+m  p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
+ni -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
+r  n  -  s | r  g  m  d | n  s  r  n  | s  -  -  r  ||
+ko -  -  - | ni -  -  - | ya -  -  -  | -  -  -  du ||
+
+s  r  s  n | s  s  n  p | n  d  p  d  | p  p  m  g  | m  r  g  m  |
+p  g  m  r | s  r  s  n | s  n  p  m  | d  n  s  r  | g  m  r  s  |
+r  g  m  d | n  s  r  g | m  r  s  s  | n  p  m  g  ||
+
+m  r  s  r | g  m  d  n | s  -  r  -  | s  n  r  s  | p  -  p  -  |
+nna-  -  - | nu -  ra - | sa -  ra -  | su -  -  -  | da -  -  -  |
+m  p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
+ni -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
+r  n  -  s | r  g  m  d | n  s  r  n  | s  -  -  r  ||
+ko -  -  - | ni -  -  - | ya -  -  -  | -  -  -  du ||
+
+s - - -|  n r s n p - m n d p g - - m r s r n |
+ s - - - - -- n s r g m r s r g m d n s r |
+ s n - s p n p -m || - p m – g m d - n ||
+ s – p - n d n p d m p m - g m – r g m d n s r |
+g g - m r s - n r - s n p - g g - m r s - r g |
+m d n s r - g m r || s n p – r s n p m ||
+g m r - g g m d n - (sarasuda)

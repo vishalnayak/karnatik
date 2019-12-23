@@ -1,0 +1,193 @@
+Song: Era Napai (Varnam)
+Raga: Hanumatodi (Melakarta 8) (s r1 g2 m1 p d1 n2 S)
+Composer: Patnam Subramania Iyer
+Language: Telugu
+Tala: Adi
+Arohana:   s r1 g2 m1 p d1 n2 S
+Avarohana: S n2 d1 p m1 g2 r1 s
+
+
+s     -      -      s                        n    d    p    d                         n    n    d    p                         m     g     m     n   |
+
+e     -     -       ra                      -     -     na     -                        -     pai     -     -                      in      -     -      tha  |
+
+
+n     d    p     m                      g     r    s     r    |  g     m-    p     g                    m     p     d     n   ||
+
+chou  -     -     ka                    -     -      se    -     |    -      -      -      ya                    -      -     -      -     ||
+
+
+s     r    g     n                      s     r     d      n                     d     g     r     s                     n     d     p     m    |
+
+me   -      -     ra                      -      -      ka    -                       -       du       -      -                   ra     -       -     -     |
+
+
+d     -      -       -                        -     --       s      n    |                d     p    m     g                      m     p      d     n   ||
+
+na    -     -      -                        -      -      sa     -      |                -      -      -      mi                       -     -      -       -    ||
+
+
+
+
+
+anupallavi
+
+maruni kanna sree venkatesa sukumara nannelu kora sarasuda
+
+
+
+
+
+
+
+n     d    d   n                        d     d      n     g                    m     n    d     p                      m    g     r     s     |
+
+ma  -     -     -                          ru      -        -      ni  -      kan   -     -                       na       -       -       -     |
+
+
+
+m     g     m    p                     d     n     s     n         |            d     p      d    n     s     --      d     p     ||
+
+sree         -    ven                 -       -      ka       -        |            te       -       -      -                     sa     -     su    ku      ||
+
+
+
+
+
+
+
+d      n      s     r                    g     r    g     m                    g     r     n     g                    r     s     n      d        |
+
+ma     -        -     -                    ra       -   nan     -                    -       -      ne     -                      -       lu     -        -       |
+
+
+
+n     s     r     d                      n      d     g     r     |              s     n     d     p                      m      p       d     n      ||
+
+ko    -     -       ra                     -      -        sa      -      |             ra    -      su      -                      -        da       -       -       ||
+
+
+
+
+
+mukthayi swaram
+
+s      r     s     n                     d     n     s     -                       n     r     n     d                     d     m    g     m     |
+
+p     d    n     d                       n    s     n     d     | n     s     n     r                      s      -      -       -     ||
+
+
+
+d     n     d     g                     r     r     m     g                    r     s     n     g                     r     s      n     d      |
+
+n     g     r     n                     r      n     d     n    |               d    g      r     n                     d     m     d     n     ||
+
+                                                                                                                                                       (sa)
+
+
+
+charanam
+
+dani matalu vini intha sahasa melara
+
+
+
+
+
+
+
+d     -     -     n                         s      -       -     -                         n     d     p     m                     g     r     s    r      |
+
+da   -     -     ni                        ma    -     -      -                       ta     -       -       lu                   -      vi       -     ni     |
+
+
+
+g       -      -     m                     -       -     p      d     | n     s     -        s                     n     d     p     m    ||
+
+in      -      -      tha                -       -     sa     -      |  ha    sa    -       me                 -       la      -     ra      ||
+
+
+
+chittai swaras
+
+(1)
+
+g     -     --     m                       -     --      g     -                         --      -     r      -                        n      -     r      -     |
+
+s     -     --      d                       -     --      n     -      |  --      s     -      r                      --      g     -      m    ||
+
+                                                                                                                                                       (da)
+
+
+
+(2)
+
+d     -      n       d                    d     m     g     m                   d      -        m     g                  -     r      s      n
+
+s     -       r       g                    --      m      d    n     |              s      n       --      d  -     m     g     m     ||
+
+                                                                                                                                                       (da)
+
+
+
+(3)
+
+m     d     n     s                     -      n     d     n                      s     n       -      d                     r     s     n     d       |
+
+d      -      m     g                    -      m    n     d     |                m    d      n     s                     d     -       -      n     ||
+
+
+
+d     m     g     r                    s     d     m     g                     r     s     r     g                      m     d     n     s     |
+
+r     g      r     -                      n     d     n      d     |              m     g     r    n                     s      r     g     m     ||
+
+                                                                                                                                                       (da)
+
+
+
+
+
+(4)
+
+d     n     d     m                    g     m     n     d                    m    g      r     s                     d     m    g     r    |
+
+s     g     r     n                      d     n      r      n       |           d     n     s      r                     g     m      d      m     ||
+
+
+
+d     n     s     r                      n     d      n     s                     r     g     r     n                     d     n     d     m     |
+
+g     r     s      g                    r     n      d     m      |            g     r     s      n                     s      r     g     m     ||
+
+                                                                                                                                                       (da)
+
+
+
+
+
+(5)
+
+s       -       -      n                     d     n     s     -                        -      n      d     n                     n     -      -       d     |
+
+m     d      n    d                    -      r      s     n     |                d     -      m     g                     -      m     d      n     ||
+
+
+
+r     n     d     m                    g     r     n     d                     m     g     r     d                    m     g     r     s     |
+
+n     s      r     g                     m     d     s      r     |              g     m     d    m                    d      n     s     r     ||
+
+
+
+s     r     g     r                     -       n      d     n                    g     r     -     n                       d     n     r     n     |
+
+-      d     m     d                     n     s      -       n     |               d     m     -    g                       m     d     d     n     ||
+
+
+
+s     r     g     n                     s     r     d      n                     s     m     d     n                     g     m     d     n     |
+
+s     r     g     m                    g     r     n      d     |              m     g     r    n                     s      r     g     m     ||
+
+                                                                                                                                                                        (da)
