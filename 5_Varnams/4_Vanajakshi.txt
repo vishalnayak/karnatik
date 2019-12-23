@@ -7,10 +7,10 @@ Arohana:   s r2 g3 m2 p d2 n3 S
 Avarohana: S n3 d2 p m2 g3 r2 s
 
 S  S  - S  | n d R   S | n n  d d | p m g  m | p  d n d  | - R  S n | d  p m g  | m p d n  ||
-va na - ja | - -kshi - | - ro - - | - - ee - | vi - - ra | - ha - - | mo - - rva| - - - ne ||
+va na - ja | - -kshi - | - - ro - | - - ee - | vi - - ra | - ha - - | mo - - rva| - - - ne ||
 
 S  R  G R  | S n   S R | S n R  S | n d  n d | n  -  - - | - - S  n | d  p m g  | m p d n  ||
-va -  - -  | - su  - - | - - de - | - vu - - | ni -  - - | - -tho - | di - - de | - - - ve ||
+va -  - -  | - su  - - | - - de - | - vu - - | ni -  - - | - -tho - | di - - te | - - - ve ||
 
 p  -  m  g | n d  -  m | d p  - m | g  r s  .n | s  r g m  | - - g  m | p g  - m | n d n p ||
 vi -  -  - | - na -  - | - ve - - | na - ga -  | pu - - ra | - - mu - | - na - - | - - - - ||
