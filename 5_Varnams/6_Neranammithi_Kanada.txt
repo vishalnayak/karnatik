@@ -4,12 +4,12 @@ Janya: Kharaharapriya (Melakarta 22) (s r2 g2 m1 p d2 n2 S)
 Composer: Poochi Srinivasa Iyengar
 Language: Telugu
 Tala: Ata
-Arohana:   s r2 p g2 m1 d2 n2 S
-Avarohana: S n2 p m1 g2 m1 r2 S
+Arohana:   s r2 g2 m1 d2 n2 S
+Avarohana: S n2 p m1 p d2 n2 d2 p m1 p g2 m1 r2 S
 
--  -  -  - | -  -  -  - | r  -  p  -  | g  -  -  -  |  g  m  r  s |
+-  -  -  - | -  -  -  - | r  -  r  p  | g  -  -  -  |  g  m  r  s |
 -  -  -  - | -  -  -  - | ne - ra  -  |nam -  -  -  | mi  -  -  - |
-s  n  r  s | r  -  -  - | g  m  r  r  |  s  s  n  r |  s  n  -  s |
+s  .n  r  s| r  -  r  - | g  m  r  r  | s  .n  .n  r|  s  n  -  s |
 ti -  -  - | -  -  -  - |nay -  -  -  |  -  -  ya - |  -  -  -  - |
 n  - d  n  | s  r  g  - | -  n  d  d  |  p  m  d  p ||
 ni - - tya | -  -  -  - | -  mu -  -  |  -  -  ga - ||
