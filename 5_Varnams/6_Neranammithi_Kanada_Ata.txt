@@ -35,7 +35,7 @@ to  -  -  - | na -  -  - |nnu -  -  -  | ka -  -  pa | -  -  du –  |
 S   n  p  m | g  m  d  n | S  R  n  S  | -  n  p  m  ||
 -   -  ta - | ki -  de - | sa -  -  ma | -  -  ya -  ||
 
-n   d  p  m | g  m  r  s |
+n   d  p  m | g  m  r  s | =  =  =  =  | =  =  =  =  | =  =  =  =  |
 mu  -  -  - | ra -  -  - | r  g  m  d  | -  n  p  d  | m  p  m  g  |
 -   m  r  n | s  r  s  - | r  g  m  d  | p  m  p  g  | m  r  s  n  |
 p   n  s  r | g  m  p  m | d  n  S  p  | -  n  m  p  ||
@@ -44,15 +44,15 @@ g   m  d  n | S  -  S  - | S  n  S  R  | -  R  S  R  | P  G  -  M  |
 R   S  n  S | -  R  S  n | p  m  g  m  | m  d  d  n  | n  S  S  R  |
 G   -  -  R | S  n  p  - | -  R  S  R  | n  S  p  n  ||
 
-m   p  g  m | r  s  .n s | S  -  S  -  | S  n  R  S  | p  -  p  -  |
-=   =  =  = | =  =  =  = | sa -  ra -  | su -  -  -  | da -  -  -  |
+=   =  =  = | =  =  =  = | S  -  S  -  | S  n  R  S  | p  -  p  -  |
+m   p  g  m | r  s  .n s | sa -  ra -  | su -  -  -  | da -  -  -  |
 m   p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
 ni  -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
 r   .n -  s | r  g  m  d | n  S  R  n  | S  -  -  R  ||
 ko  -  -  - | ni -  -  - | ya -  -  -  | du -  -  chu||
 
-s   n  p  m | g  m  d  n | S  -  S  -  | S  n  R  S  | p  -  p  -  |
-=   =  =  = | =  =  =  = | sa -  ra -  | su -  -  -  | da -  -  -  |
+=   =  =  = | =  =  =  = | S  -  S  -  | S  n  R  S  | p  -  p  -  |
+s   n  p  m | g  m  d  n | sa -  ra -  | su -  -  -  | da -  -  -  |
 m   p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
 ni  -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
 r   .n -  s | r  g  m  d | n  S  R  n  | S  -  -  R  ||
@@ -62,8 +62,8 @@ R   -  -  - | -  -  S  - | -  -  n  -  | R  -  S  -  | n  -  S  -  |
 p   -  -  - | -  -  m  - | p  -  n  -  | d  -  p  -  | m  -  p  -  |
 g   -  -  - | -  -  m  - | r  -  s  -  | -  -  r  -  ||
 
-g   -  m  - | d  -  n  - | S  -  S  -  | S  n  R  S  | p  -  p  -  |
-=   =  =  = | =  =  =  = | sa -  ra -  | su -  -  -  | da -  -  -  |
+=   =  =  = | =  =  =  = | S  -  S  -  | S  n  R  S  | p  -  p  -  |
+g   -  m  - | d  -  n  - | sa -  ra -  | su -  -  -  | da -  -  -  |
 m   p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
 ni  -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
 r   .n -  s | r  g  m  d | n  S  R  n  | S  -  -  R  ||
@@ -73,8 +73,8 @@ d   -  n  p | d  p  m  p | m  g  m  n  | d  -  n  p  | m  g  m  r  |
 s   r  g  m | d  -  n  p | d  p  n  d  | p  g  m  d  | -  n  S  -  |
 R   n  S  n | p  m  g  m | d  -  n  S  | R  G  M  R ||
 
-S   n  p  m | n  d  -  n | S  -  S  -  | S  n  R  S  | p  -  p  -  |
-=   =  =  = | =  =  =  = | sa -  ra -  | su -  -  -  | da -  -  -  |
+=   =  =  = | =  =  =  = | S  -  S  -  | S  n  R  S  | p  -  p  -  |
+S   n  p  m | n  d  -  n | sa -  ra -  | su -  -  -  | da -  -  -  |
 m   p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
 ni  -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
 r   .n -  s | r  g  m  d | n  S  R  n  | S  -  -  R  ||
@@ -84,8 +84,8 @@ S   R  S  n | S  S  n  p | n  d  p  d  | p  p  m  g  | m  r  g  m  |
 p   g  m  r | s  r  s .n | s .n .p .m  |.d  .n s  r  | g  m  r  s  |
 r   g  m  d | n  S  R  G | M  R  S  S  | n  p  m  g  ||
 
-m   r  s  r | g  m  d  n | S  -  S  -  | S  n  R  S  | p  -  p  -  |
-=   =  =  = | =  =  =  = | sa -  ra -  | su -  -  -  | da -  -  -  |
+=   =  =  = | =  =  =  = | S  -  S  -  | S  n  R  S  | p  -  p  -  |
+m   r  s  r | g  m  d  n | sa -  ra -  | su -  -  -  | da -  -  -  |
 m   p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
 ni  -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
 r   .n -  s | r  g  m  d | n  S  R  n  | S  -  -  R  ||
@@ -99,8 +99,8 @@ S   p  -  n | d  n  p  d | m  p  m  g  | m  r  g  m  | d  n  S  R  |
 G   G  -  M | R  S  n  R | -  S  n  p  | g  g  -  m  | r  s  r  g  |
 m   d  n  S | R  G  M  R | S  n  p  R  | S  n  p  m  ||
 
-g   m  r  g | g  m  d  n | S  -  S  -  | S  n  R  S  | p  -  p  -  |
-=   =  =  = | =  =  =  = | sa -  ra -  | su -  -  -  | da -  -  -  |
+=   =  =  = | =  =  =  = | S  -  S  -  | S  n  R  S  | p  -  p  -  |
+g   m  r  g | g  m  d  n | sa -  ra -  | su -  -  -  | da -  -  -  |
 m   p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
 ni  -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
 r   .n -  s | r  g  m  d | n  S  R  n  | S  -  -  R  ||
