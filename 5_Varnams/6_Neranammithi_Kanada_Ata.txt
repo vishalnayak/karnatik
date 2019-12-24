@@ -7,25 +7,27 @@ Tala: Ata
 Arohana:   s r2 g2 m1 d2 n2 S
 Avarohana: S n2 p m1 p d2 n2 d2 p m1 p g2 m1 r2 S
 
+Pallavi:
 -  -  -   - | -  -  -  - | r  -  r  p  | g  -  -  -  | g  m  r  s |
 -  -  -   - | -  -  -  - | ne - ra  -  |nam -  -  -  | mi -  -  - |
 s  .n r   s | r  -  r  - | g  m  r  r  | s  .n .n r  | s  .n -  s |
 ti -  -   - | -  -  -  - |nay -  -  -  | -  -  ya -  | -  -  -  - |
-.d .n .d .n | s  r  g  - | -  n  d  d  | p  m  d   p ||
+.d -  -  .n | s  r  g  - | -  n  d  d  | p  m  d   p ||
 ni -  - tya | -  -  -  - | -  mu -  -  | -  -  ga  - ||
 
-m   g  -  m | r  s  n  s | r  g  m  p  |  -  d  m  d | p  m  g  m  |
+m   g  -  m | r  s . n  s| r  g  m  p  |  -  d  m  d | p  m  g  m  |
 -  ni  -  - | nnu-  -  - | ni -  -  ra |  -  -  ja - | -  -  -  -  |
-r   s  r  n | -  s  r  g | m  p  m  d  |  n  S  p  - | n  m  p  g  |
+r   s  r .n | -  s  r  g | m  p  m  d  |  n  S  p  - | n  m  p  g  |
 na  -  - ya | -  -  na - | -  -  -  ni |  -  -  ru - | pa -  -  ma |
 m   d  n  S | R  S  n  R | S  n  p  n  | d  p  m  p  ||
 -   -  -  - |sun -  -  - | da -  -  ra | -  -  -  -  ||
 
+Anupallavi:
 g   -  g  m | r  s  .n s | s  -  d  p  | d  -  -  -  | d  -  d  -  |
 ka  -  -  - | ra -  -  - | ma -  ru -  | ni -  -  -  | -  -  -  -  |
-p   d  n  S | n  n  d  p | m  p  d  n  | d  d  p  m  | d  d  p  m  |
+p   d  n  S | n  n  d  p | m  p  d  n  | d  d  p  m  | d  p  d  m  |
 gan -  -  - | -  -  -  - | na -  -  -  | -  -  -  -  |shri-  -  ni |
-d   p  g  – | m  d  -  d | m  d  n  n  | s  n  p  m  ||
+d   p  g  – | m  d  -  d | m  d  n  n  | S  n  p  m  ||
 -   -  -  - | -  va -  - | sa -  -  -  | de -  -  -  ||
 
 g   m  d  n | S  -  -  - | S  n  S  -  | R  -  G  S  | R  n  S  R  |
@@ -35,17 +37,23 @@ to  -  -  - | na -  -  - |nnu -  -  -  | ka -  -  pa | -  -  du –  |
 S   n  p  m | g  m  d  n | S  R  n  S  | -  n  p  m  ||
 -   -  ta - | ki -  de - | sa -  -  ma | -  -  ya -  ||
 
-n   d  p  m | g  m  r  s | =  =  =  =  | =  =  =  =  | =  =  =  =  |
-mu  -  -  - | ra -  -  - | r  g  m  d  | -  n  p  d  | m  p  m  g  |
--   m  r  n | s  r  s  - | r  g  m  d  | p  m  p  g  | m  r  s  n  |
-p   n  s  r | g  m  p  m | d  n  S  p  | -  n  m  p  ||
+n   d  p  m | g  m  r  s | 
+mu  -  -  - | ra -  -  - |
+
+Chitteswara: 
+=  =  =  =  | =  =  =  = | r  g  m  d  | -  n  p  d  | m  p  m  g  |
+-   m  r .n | s  r  s  - | r  g  m  d  | p  m  p  g  | m  r  s .n  |
+.p .n  s  r | g  m  p  m | d  n  S  p  | -  n  m  p  ||
 
 g   m  d  n | S  -  S  - | S  n  S  R  | -  R  S  R  | P  G  -  M  |
 R   S  n  S | -  R  S  n | p  m  g  m  | m  d  d  n  | n  S  S  R  |
 G   -  -  R | S  n  p  - | -  R  S  R  | n  S  p  n  ||
 
-=   =  =  = | =  =  =  = | S  -  S  -  | S  n  R  S  | p  -  p  -  |
-m   p  g  m | r  s  .n s | sa -  ra -  | su -  -  -  | da -  -  -  |
+m   p  g  m | r  s  .n s |
+
+Charana: 
+=  =  =  =  | =  =  =  = | S  -  S  -  | S  n  R  S  | p  -  p  -  |
+=  =  =  =  | =  =  =  = | sa -  ra -  | su -  -  -  | da -  -  -  |
 m   p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
 ni  -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
 r   .n -  s | r  g  m  d | n  S  R  n  | S  -  -  R  ||
