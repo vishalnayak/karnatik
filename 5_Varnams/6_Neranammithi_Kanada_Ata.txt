@@ -91,10 +91,17 @@ ni -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
 r  n  -  s | r  g  m  d | n  s  r  n  | s  -  -  r  ||
 ko -  -  - | ni -  -  - | ya -  -  -  | -  -  -  du ||
 
-s - - -|  n r s n p - m n d p g - - m r s r n |
- s - - - - -- n s r g m r s r g m d n s r |
- s n - s p n p -m || - p m – g m d - n ||
- s – p - n d n p d m p m - g m – r g m d n s r |
-g g - m r s - n r - s n p - g g - m r s - r g |
-m d n s r - g m r || s n p – r s n p m ||
-g m r - g g m d n - (sarasuda)
+s  -  -  n | r  s  n  p | -  m  n  d  | p  g  -  m  | r  s  r  n  |
+s  -  -  - | -  n  s  r | g  m  r  s  | r  g  m  d  | -  n  s  r  |
+s  n  -  s | p  n  p  m | -  p  m  g  | m  d  -  n  ||
+
+s  p  -  n | d  n  p  d | m  p  m  g  | m  r  g  m  | d  n  s  r  |
+g  g  -  m | r  s  n  r | -  s  n  p  | g  g  -  m  | r  s  r  g  |
+m  d  n  s | r  g  m  r | s  n  p  r  | s  n  p  m  ||
+
+g  m  r  g | g  m  d  n | s  -  r  -  | s  n  r  s  | p  -  p  -  |
+nna-  -  - | nu -  ra - | sa -  ra -  | su -  -  -  | da -  -  -  |
+m  p  d  n | d  d  p  m | d  p  m  d  | p  m  p  g  | -  m  r  s  |
+ni -  -  - | nne-  -  - | sa -  -  ta | -  -  -  ta | -  -  mu -  |
+r  n  -  s | r  g  m  d | n  s  r  n  | s  -  -  r  ||
+ko -  -  - | ni -  -  - | ya -  -  -  | -  -  -  du ||
