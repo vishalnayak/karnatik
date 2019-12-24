@@ -2,7 +2,7 @@ Song: Era Napai (Varnam)
 Raga: Hanumatodi (Melakarta 8) (s r1 g2 m1 p d1 n2 S)
 Composer: Patnam Subramania Iyer
 Language: Telugu
-Tala: Adi
+Tala: Aadi
 Arohana:   s r1 g2 m1 p d1 n2 S
 Avarohana: S n2 d1 p m1 g2 r1 s
 

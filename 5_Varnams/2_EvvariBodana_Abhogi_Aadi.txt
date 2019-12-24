@@ -3,7 +3,7 @@ Raga: Abhogi
 Janya: Kharaharapriya (Melakarta 22) (s r2 g2 m1 p d2 n2 S)
 Composer: Patnam Subramania Iyer
 Language: Telugu
-Tala: Adi
+Tala: Aadi
 Arohana:   s r2 g2 m1 d2 S
 Avarohana: S d2 m1 g2 r2 s
 

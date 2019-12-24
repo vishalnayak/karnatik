@@ -3,7 +3,7 @@ Raga: Anandabhairavi
 Janya: Nathabhairavi (Melakarta 20) (s r2 g2 m1 p d1 n2 S)
 Composer: Purandaradasa
 Language: Sanskrit
-Tala: Adi
+Tala: Aadi
 Arohana:   s g2 r2 g2 m1 p  d2 p S
 Avarohana: S n2 d2 p  m1 g2 r2 s
 

@@ -4,7 +4,7 @@ Janya: Harikambodhi (Melakarta 28) (s r2 g3 m1 p d2 n2 S)
 or Dheera Shankarabharanam (Melakarta 29) (s r2 g3 m1 p d2 n3 S)
 Composer: Poochi Srinivasa Iyengar
 Language: Telugu
-Tala: Adi
+Tala: Aadi
 Arohana:   s r2 g3 p  d2 S
 Avarohana: S d2 p  g3 r2 s
 
