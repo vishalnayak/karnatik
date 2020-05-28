@@ -1,0 +1,68 @@
+Song: Amba Kamakshi (Swarajathi)
+Raga: Bhairavi
+Janya: Natabhairabi (melakarta 20) (s r2 g2 m1 p d1 n2 S)
+Composer: Shyama Shastri
+Language: Telugu
+Tala: Mishra Chapu
+Arohana:   s g2 r2 g2 m1 p d2 n2 S
+Avarohana: S n2 d1 p m1 g2 r2 s
+
+Pallavi
+.n -  -  -  - .d  -  ||  -  -  -  -  -  .p -  ||  -  -  -  -  - .d .n  ||  s  -  -  -  s  -  r  ||
+ka -  -  -  -  ma -  ||  -  -  -  -  - kshi-  ||  -  -  -  -  -  am -  ||  ba -  -  -  kan-  ci ||
+
+.n -  -  -  - .d  -  ||  -  -  -  -  -  .p -  ||  -  -  -  -  - .d .n  ||  s  -  -  -  - .d  .n ||
+ka -  -  -  -  ma -  ||  -  -  -  -  - kshi-  ||  -  -  -  -  -  am -  ||  ba -  -  -  -  a  nu ||
+
+s  r  g  m  p  m  g  ||  r  -  -  -  - .n  -  ||  s  -  r  g  m  p  -  ||  d  n  S  n  -  d  p  ||
+di na mu ma ra va ka ||  ne -  -  -  -  ni -  ||  pa -  da mu le di -  || kka nu cu nam-  mi ti ||
+
+m  g  -  -  r  -  s  ||
+ni sri-  -  kan-  ci ||
+
+Swara Sahityam
+s  -  r .n  s  r  -  ||  - .n  r  s .n .d .p  || .m  .p  -  - .d  -  - || .n  -  -  -  s  -  r  ||
+kun-  da ra da na -  ||  -  ku va la ya na ya ||  na tal -  -  li -  - ||  ra -  -  - ksin-  cu ||[1]
+
+r  -  g  r  g  s  -  ||  - .n  g  r  s  r  -  ||  - .n  r  s .n .d  -  ||  - .n  -  -  g  -  r  ||
+kam- bu  ga la ni -  ||  -  ra da ci ku ra -  ||  -  vi du va da na -  ||  -  ma -  - yum -  ma ||[2]
+
+g  -  m  g  r  s  r  || .n  -  s .n  s  r  g  ||  m  -  p  g  r  g  m  ||  p  -  d  m  g  r  s  ||
+kum- bha ku chama da || mat -  ta ga ja ga ma ||  pa - dma bhava ha ri ||sham - bhu nu ta pa da ||
+.n  - s  .n -  g  -  ||  r  g  -  m  -  p  d  ||  n  -  n  -  d  p  -  ||  p  -  m  -  g  r  s  ||
+shan- ka  ri-  ni -  ||  vu na - chin-  ta la ||  ve -  ve -  ga dirc- ||cham -  ma -  yi pu du ||[3]
+
+m  -  p  n  d  m  -  ||  p  d  p  m  -  g  r  ||  g  -  m  p  -  g  m  ||  p  -  -  -  -  p  d  ||
+bha- kta ja na kal-  ||  pa la ti ka -  ka ru ||  na -  la ya -  sa da ||  ya -  -  -  -  am ba ||
+m  -  p  n  d  m  -  ||  p  d  p  m  -  g  r  ||  g  -  m  p  -  g  m  ||  p  -  g  p  m  g  r  ||
+bha- kta ja na kal-  ||  pa la ti ka -  ka ru ||  na -  la ya -  sa da ||  ya -  gi ri ta na ya ||
+.n -  s  r  - .n  s  ||  r  - .n  s  r  g  m  ||  p  -  d  n  S  p  -  ||  S  n  d  p  m  g  r  ||
+ka -  va ve - sha ra ||  na -  ga tu du ga da ||  ta -  ma sa mu se -  ||  ya ka ra va mo sa gu ||[4]
+
+p  -  d  p  m  g  r  ||  g  -  m  p  -  m  g  ||  r  -  g  m  -  g  r  || .n  -  s  r  -  -  -  ||
+pa -  ta ka mu la nu ||  dir- cci ni -  pa da || bha - kti san-  ta ta ||  mi -  ya ve -  -  -  ||
+g  -  m  g  r  s  -  ||  -  p  m  g  r  s  -  ||  R  S  -  n  -  d  p  ||  -  m  -  g  r  -  s  ||
+pa -  va ni ga da -  ||  -  mo ra vi na da -  ||  pa ra -  ke -  la nam||  -  ma -  vi nam-  ma ||[5]
+
+d  p  n  d  -  p  m  ||  g  r  -  g  m  p  d  ||  p  -  -  -  -  m  g  ||  m  p  m  g  r  g  m  ||
+ka lusha ha -  ri ni ||  sa da -  natha phala ||  da -  -  -  -  ya ki ||  ya ni bi ru du bhuvi ||
+g  -  -  -  -  r  g  ||  m  g  r  g  s  r .n  ||  s  -  -  -  -  G  R  ||  S  n  d  p  m  g  r  ||
+lo -  -  -  -  ga li ||  gi na do ra ya nu chu||  ve -  -  -  -  da mu ||  mo ra li da ga vi ni ||[6]
+
+n  -  R  S  R  n  R  ||  n  -  d  p  d  m  p  ||  g  -  r  s  r .n  s  ||  r  g  m  p  -  m  p  ||
+ni -  pa va na ni la ||  ya -  su ra sa mu da ||  ya -  ka ra vi dhruta||  ku va la ya -  ma da ||
+S  n  d  p  -  m  g  ||  r  s  - .n  -  d  n  ||  s  r  g  m  p  m  g  ||  r  -  -  -  - .n  s  ||
+da nu ja va -  ra na ||  mrugen- drarc  hi ta ||  ka lusha da ha na gha||  na -  -  -  -  a  pa ||
+r  g  m  p  -  s  r  ||  g  m  p  d  -  m  p  ||  g  r  g  m  -  p  m  ||  p  d  n  S  -  p  d  ||
+ri mi ta vai-  bhava ||  mu ga la ni -  smara ||  na ma di lo -  da la ||  ci na ja na -  du la ||
+n  S  R  G  -  M  G  ||  R  S  -  n  -  d  p  ||  G  R  -  -  -  S  n  ||  d  p  -  -  -  g  r  ||
+ku ba hu sam-  pa da ||  la nic- che -  vi pu ||  du ma -  -  -  ka bha||  ya miy-  -  -  ya ve ||[7]
+
+S  -  G  R  -  S  R  ||  S  -  R  n  -  d  m  ||  p  -  d  n  -  d  n  ||  S  -  -  -  -  G  R  ||
+shya- ma kri- shnasa ||  ho -  da ri - shi va || shan-  ka ri -  pa ra ||  me -  -  -  - shvari ||
+S  R  S  n  -  d  p  ||  m  g  -  m  g  r  s  || .n  s  -  -  -  r  g  ||  m  p  -  -  -  g  m  ||
+ha ri ha ra -  du la ||  ku ni -  ma hi ma lu ||  ga nim-  -  -  pa tha||  ra ma -  -  -  su thu||
+g  -  -  r  -  s .n  ||  s  -  -  -  -  p  m  ||  p  -  -  -  -  d  -  ||  -  n  -  -  -  S  -  ||
+dam-  -  ma -  a  bhi||  ma -  -  -  -  na mu ||  le -  -  -  -  da -  ||  -  na -  -  -  pai-  ||
+-  R  -  -  G  -  -  ||  M  G  -  R  -  G  R  ||  S  -  R  n  -  d  p  ||  m  g  -  r  -  g  r  ||
+-  de -  -  vi -  -  ||  pa ra -  ke -  la ne ||  bro-  va ve -  yi pu ||  du sri-  bhi-  ra vi ||[8]

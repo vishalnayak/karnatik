@@ -1,0 +1,45 @@
+Song: Era Napai (Varnam)
+Raga: Hanumatodi (Melakarta 8) (s r1 g2 m1 p d1 n2 S)
+Composer: Patnam Subramania Iyer
+Language: Telugu
+Tala: Aadi
+Arohana:   s r1 g2 m1 p d1 n2 S
+Avarohana: S n2 d1 p m1 g2 r1 s
+
+Pallavi
+S  -  -  S  |  n  d  p  d  |  n  n  d  p  |  m  g  m  n  |  n   d p  m  |  g  r  s  r  |  g  m  p  g  |  m  p  d  n  ||
+e  -  -  ra |  -  -  na -  |  - pai -  -  |  in -  - tha |  chou- -  ka |  -  -  se -  |  -  -  -  ya |  -  -  -  -  ||
+
+S  R  G  n  |  S  R  d  n  |  d  G  R  S  |  n  d  p  m  |  d  -  -  -  |  -  -  S  n  |  d  p  m  g  |  m  p  d  n  ||
+me -  -  ra |  -  -  ka -  |  - du  -  -  |  ra -  -  -  |  na -  -  -  |  -  -  sa -  |  -  -  -  mi |  -  -  -  -  ||
+
+Anupallavi
+n  d  d  n  |  d  d  n  g  |  m  n  d  p  |  m  g  r  s  |  m  g  m  p  |  d  n  s  n  |  d  p  d  n  |  s  -  d  p  ||
+ma -  -  -  |  ru -  -  ni |  - kan -  -  | na  -  -  -  |  sree-ven -  |  -  ka -  -  |  te -  -  -  |  sa -  su ku ||
+
+d  n  S  R  |  G  R  G  M  |  G  R  n  G  |  R  S  n  d  |  n  S  R  d  |  n  d  G  R  |  S  n  d  p  |  m  p  d  n  ||
+ma -  -  -  |  ra - nan -  |  -  -  ne -  |  -  lu -  -  |  ko -  -  ra |  -  -  sa -  |  ra -  su -  |  -  da -  -  ||
+
+Chitte Swara
+S  R  S  n  |  d  n  S  -  |  n  R  n  d  |  d  m  g  m  |  p  d  n  d  |  n  S  n  d  |  n  S  n  R  |  S  -  -  -  ||
+d  n  d  G  |  R  R  M  G  |  R  S  n  R  |  R  S  n  d  |  n  G  R  n  |  R  n  d  n  |  d  G  R  n  |  d  m  d  n  ||
+
+Charana
+d  -  -  n  |  S  -  -  -  |  n  d  p  m  |  g  r  s  r  |  g  -  -  m  |  -  -  p  d  |  n  S  -  S  |  n  d  p  m  ||
+da -  -  ni |  ma -  -  -  |  ta -  -  lu |  -  vi -  ni |  in -  -  tha|  -  -  sa -  |  ha sa -  me |  -  la -  ra ||
+
+Ettugade Swaras
+g  -  -  m  |  -  -  g  -  |  -  -  r  -  | .n  -  r  -  |  s  -  - .d  |  -  - .n  -  |  -  s  -  r  |  -  g  -  m  || [1]
+
+d  -  n  d  |  d  m  g  m  |  d  -  m  g  |  -  r  s .n  |  s  -  r  g  |  -  m  d  n  |  S  n  -  d  |  -  m  g  m  || [2]
+
+m  d  n  S  |  -  n  d  n  |  S  n  -  d  |  R  S  n  d  |  d  -  m  g  |  -  m  n  d  |  m  d  n  s  |  d  -  -  n  ||
+d  m  g  r  |  s  d  m  g  |  r  s  r  g  |  m  d  n  s  |  R  G  R  -  |  n  d  n  d  |  m  g  r .n  |  s  r  g  m  || [3]
+
+d  n  d  m  |  g  m  n  d  |  m  g  r  s  |  d  m  g  r  |  s  g  r .n  | .d .n  r .n  | .d .n  s  r  |  g  m  d  m  ||
+d  n  S  R  |  n  d  n  S  |  R  G  R  n  |  d  n  d  m  |  g  r  s  G  |  R  n  d  m  |  g  r  s .n  |  s  r  g  m  || [4]
+
+S  -  -  n  |  d  n  S  -  |  -  n  d  n  |  n  -  -  d  |  m  d  n  d  |  -  R  S  n  |  d  -  m  g  |  -  m  d  n  ||
+R  n  d  m  |  g  r  n  d  |  m  g  r  d  |  m  g  r  s  | .n  s  r  g  |  m  d  s  r  |  g  m  d  m  |  d  n  s  R  ||
+S  R  G  R  |  -  n  d  n  |  G  R  -  n  |  d  n  R  n  |  -  d  m  d  |  n  s  -  n  |  d  m  -  g  |  m  d  d  n  ||
+S  R  G  n  |  S  R  d  n  |  s  m  d  n  |  g  m  d  n  |  S  R  G  M  |  G  R  n  d  |  m  g  r .n  |  s  r  g  m  || [5]

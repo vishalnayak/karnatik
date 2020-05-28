@@ -1,0 +1,51 @@
+Raga: Mayamalavagowla (Melakarta 15) (s r1 g3 m1 p d1 n3 S)
+Taala: Atta Khanda Jaati
+14 Letters
+
+| - - - - | - - - - | 0 | 0
+
+s r - g - | s - r g - | m - | m - ||
+r g - m - | r - g m - | p - | p - ||
+g m - p - | g - m p - | d - | d - ||
+m p - d - | m - p d - | n - | n - ||
+p d - n - | p - d n - | S - | S - ||
+S n - d - | S - n d - | p - | p - ||
+n d - p - | n - d p - | m - | m - ||
+d p - m - | d - p m - | g - | g - ||
+p m - g - | p - m g - | r - | r - ||
+m g - r - | m - g r - | s - | s - ||
+
+s r - | g - s | - r g | - m - | m - r |
+g - m | - r - | g m - | p - p | - g m |
+- p - | g - m |
+p - d | - d - ||
+
+m p - | d - m | - p d | - n - | n - p |
+d - n | - p - | d n - | S - S | - S n |
+- d - | S - n |
+d - p | - p - ||
+
+n d - | p - n | - d p | - m - | m - d |
+p - m | - d - | p m - | g - g | - p m |
+- g - | p - m |
+g - r | - r - ||
+
+m g - | r - m | - g r | - s - | s - p |
+m - g | - p - | m g - | r - r | - m g |
+- r - | m - g |
+r - s | - s - ||
+
+s r - g | - s - r | g - m - | m - r g | - m - r |
+- g m - | p - p - | g m - p | - g - m | p - d - |
+d - m p | - d - m |
+- p d - | n - n - ||
+
+p d - n | - p - d | n - S - | S - S n | - d - S |
+- n d - | p - p - | n d - p | - n - d | p - m - |
+m - d p | - m - d |
+- p m - | g - g - ||
+
+p m - g | - p - m | g - r - | r - m g | - r - m |
+- g r - | s - s - | p m - g | - p - m | g - r - |
+r - m g | - r - m |
+- g r - | s - s - ||

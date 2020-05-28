@@ -1,0 +1,13 @@
+s s r r | g g | m m || p p d d | n n | S S || S S n n | d d | p p || m m g g | r r | s s ||
+
+s s r r | g g | m m || r r g g | m m | p p ||
+g g m m | p p | d d || m m p p | d d | n n ||
+p p d d | n n | S S || S S n n | d d | p p ||
+n n d d | p p | m m || d d p p | m m | g g ||
+p p m m | g g | r r || m m g g | r r | s s ||
+
+s s r r | g g | r r || s s r r | g g | m m || r r g g | m m | g g || r r g g | m m | p p ||
+g g m m | p p | m m || g g m m | p p | d d || m m p p | d d | p p || m m p p | d d | n n ||
+p p d d | n n | d d || p p d d | n n | S S || S S n n | d d | n n || S S n n | d d | p p ||
+n n d d | p p | d d || n n d d | p p | m m || d d p p | m m | p p || d d p p | m m | g g ||
+p p m m | g g | m m || p p m m | g g | r r || m m g g | r r | g g || m m g g | r r | s s ||

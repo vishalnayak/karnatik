@@ -1,0 +1,96 @@
+Song: Vanajakshi Ninne (Varnam)
+Raga: Reetigowla
+Janya: Kharaharapriya (Melakarta 22) (s r2 g2 m1 p d2 n2 S)
+Composer: Veenai Kuppaiyer
+Language: Telugu
+Tala: Ata Khanda Jaati
+Arohana:   s g2 r2 g2 m1 n2 d2 m1 n2 n2 S
+Avarohana: S n2 d2 m1 g2 m1 p m1 g2 r2 s
+
+Pallavi
+.n s .n  s  |  g  r  g  m  |  p  -  m  -  |  g  -  r  -  |  s  -  -  -  |
+-  -  -  -  |  -  -  -  -  |  va -  na -  |  ja -  -  -  |kshi -  -  -  |
+.n s  g  r  |  s  s .n .n  | .p  - .n .n  |  s .n  s  g  |  -  g  m  -  |
+ni -  -  -  |  -  -  -  -  |  -  -  nne-  |  -  -  -  -  |  -  -  -  -  |
+g  m  p  d  |  p  m  g  m  |  p  p  m  m  |  g  r  p  m  ||
+-  -  -  ko |  -  -  -  -  |  -  -  -  -  |  -  -  ri -  ||
+
+g  r  s  .n |  s  g  g  m  |  p  -  d  d  |  m  g  m  p  |  p  m  g  r  |
+na -  -  -  |  -  -  -  -  |  ve -  -  -  |  -  sa -  -  |  ta -  -  -  |
+g  m  g  m  |  n  n  d  d  |  n  n  d  m  |  -  g  m  g  |  s  -  -  -  |
+-  - thee-  |  -  -  -  -  |  -  - rchi-  | bro -  -  -  |  -  -  va -  |
+.n s  .n s  |  g  r  g  m  |  p  d  m  p  |  g  m  g  r  ||
+-  - vai -  |  -  -  -  -  |  -  -  -  -  |  -  -  -  -  ||
+
+Anupallavi
+g  -  p  m  |  g  r  g  m  |  s  -  n  d  |  n  p  d  n  |  n  d  m  g  |
+ya -  -  -  |  -  -  -  -  |  ma -  na -  |  -  si -  -  |  -  -  -  ju |
+
+m  d  p  m  |  g  r  g  m  |  d  p  -  m  |  g  r  p  m  |  -  g  r  s  |
+-  -  -  -  |  -  -  -  -  |  ni -  -  -  |  -  - kan -  |  -  -  -  -  |
+.n s  - .n  |  g  r  g  g  |  m  n  n  d  |  m  g  m  n  ||
+-  -  - nna |  -  -  -  -  | cha -  -  -  |  - kka -  -  ||
+
+n  -  S  n  |  S  -  -  -  |  n  S  G  G  |  M  G  M  G  |  R  G  -  G  |
+-  -  -  -  |  ni -  -  -  |  ma -  -  -  |  -  ve -  -  |  -  -  -  -  |
+R  S  n  S  |  n  G  R  S  |  n  S  n  n  |  d  m  g  m  |  g  r  g  m  |
+-  -  nu -  |  -  -  -  -  |  go -  -  -  |  -  -  pa -  |  -  -  -  -  |
+n  d  m  n  |  n  S  S  -  |  n  d  m  g  |  m  d  p  m  ||
+la -  -  -  |  -  -  ee -  |  -  -  -  ve |  -  -  -  -  ||
+
+g  r  s  .n |  s  g  g  m  |
+la -  -  -  |  -  -  -  -  |
+
+Chitteswara
+=  =  =  =  |  =  =  =  =  |  p  -  d  d  |  m  g  m  -  |  p  m  g  r  |
+g  m  -  n  |  d  m  g  m  |  -  m  g  r  |  s  g  -  g  |  r  s  .n p  |
+.n .n s  .n |  g  r  g  m  |  p  d  p  p  |  m  -  -  -  ||
+g  r  s  g  |  g  m  g  m  |  n  d  m  n  |  -  n  S  n  |  S  G  -  G  |
+R  G  M  G  |  -  G  R  S  |  S  n  S  G  |  R  S  n  n  |  S  -  -  S  |
+n  d  m  -  |  -  m  g  r  |  S  n  -  d  |  -  m  g  r  ||
+s  .n -  s  |  g  g  -  m  |
+
+Charana
+=  =  =  =  |  =  =  =  =  |  s  -  -  -  |  n  d  n  -  |  n  d  m  -  |
+=  =  =  =  |  =  =  =  =  |  an -  -  -  |  ni -  -  -  | thi -  -  -  |
+m  g  m  p  |  p  m  g  r  |  g  m  p  m  |  g  r  g  -  |  g  r  s  .n |
+ki -  -  -  |  -  -  -  -  | nee -  -  -  |  -  -  ve -  |  -  -  -  -  |
+s  g  r  g  |  m  g  m  d  |  p  m  g  g  |  m  -  -  g  ||
+di -  -  -  |  -  - kka -  |  -  -  -  -  |  ni -  -  -  ||
+m  d  p  m  |  g  r  s  .n |
+-  -  -  -  |  -  -  -  -  |
+=  =  =  =  |  =  =  =  =  |  s  -  -  -  |  n  d  n  -  |  n  d  m  -  |
+=  =  =  =  |  =  =  =  =  |  an -  -  -  |  ni -  -  -  | thi -  -  -  |
+m  g  m  p  |  p  m  g  r  |  g  m  p  m  |  g  r  g  -  |  g  r  s  .n |
+ki -  -  -  |  -  -  -  -  | nee -  -  -  |  -  -  ve -  |  -  -  -  -  |
+s  g  r  g  |  m  g  m  d  |  p  m  g  g  |  m  -  -  -  ||
+di -  -  -  |  -  - kka -  |  -  -  -  -  |  ni -  -  -  ||
+
+Ettugade Swaras
+m  -  -  -  |  -  -  g  -  |  r  -  g  -  |  r  -  s  -  |  -  -  s  -  |
+.n -  .p -  |  -  -  .n -  |  .n -  s  -  |  -  -  -  -  |  n  -  g  -  |
+r  -  g  -  |  m  -  d  -  |  d  -  m  -  |  g  -  r  -  ||
+s  -  g  -  |  r  -  .n -  | [1]
+
+.n p .n .n  |  s .n  s  g  |  g  m  s  m  |  -  m  g  r  |  s  g  -  g  |
+r  s  g  g  |  m  g  -  m  | .n .n  s  .n |  -  s  p  m  |  -  p  g  r  |
+g  m  -  n  |  d  m  n  -  |  n  d  m  m  |  -  g  r  s  ||
+s  - .n .p  |  -  .p .n .n | [2]
+
+p  d  d  m  |  g  g  m  p  |  g  r  s  m  |  g  r .n  s  | .n  g  r  s  |
+.n s .n .n  | .d .m .n .n  |  s  g  r  s  |  m  g  r  p  |  m  g  n  d  |
+m  g  m  n  |  n  S  n  G  |  R  n  R  S  |  n  d  m  n  ||
+d  m  p  g  |  r  s  r .n  | [3]
+
+s  s  p  m  |  g  r  s  m  |  g  r  g  g  |  m  m  p  m  |  d  p  m  p  |
+g  p  m  g  |  r  p  m  g  |  r  s  -  r  | .n  s  g  g  |  m  s  g  g  |
+m  n  d  m  |  n  n  S  n  |  S  -  n  d  |  m  m  -  g  ||
+r  n  d  m  |  g  r  s .n  | [4]
+
+n  n  d  m  |  g  g  m  d  |  d  m  g  r  |  g  g  m  m  |  p  m  g  m  |
+g  g  r  s  |  g  r  s  r  | .n  s .n .n  | .d .m .n .n  |  s .n  g  r  |
+g  g  m  g  |  p  m  d  p  |  m  g  r .n  |  s  g  g  m  ||
+p  m  -  g  |  r  s  n  d  |  -  m  g  m  |  n  n  -  S  |  n  S  G  G  |
+-  M  G  R  |  G  G  R  S  |  n  R  S  S  |  n  n  -  n  |  d  m  g  g  |
+-  m  g  r  |  s  S  -  S  |  n  d  m  n  |  -  d  m  g  ||
+m  g  -  g  |  r  s  r .n  | [5]

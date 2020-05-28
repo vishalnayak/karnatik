@@ -1,0 +1,39 @@
+Raga: Mayamalavagowla (Melakarta 15) (s r1 g3 m1 p d1 n3 S)
+Taala: Rupaka Chaturashra Jaati
+6 Letters
+
+| 0 | - - -
+
+| | 0 (Alternative Roopaka)
+
+s r | s r g m ||
+r g | r g m p ||
+g m | g m p d ||
+m p | m p d n ||
+p d | p d n S ||
+S n | S n d p ||
+n d | n d p m ||
+d p | d p m g ||
+p m | p m g r ||
+m g | m g r s ||
+
+s r s | r g m |
+r g r | g m p | g m g | m p d ||
+
+m p m | p d n |
+p d p | d n S | S n S | n d p ||
+
+n d n | d p m |
+d p d | p m g | p m p | m g r ||
+
+m g m | g r s |
+p m p | m g r | m g m | g r s ||
+
+s r s r | g m r g |
+r g m p | g m g m | p d m p | m p d n ||
+
+p d p d | n S S n |
+S n d p | n d n d | p m d p | d p m g ||
+
+p m p m | g r m g |
+m g r s | p m p m | g r m g | m g r s ||

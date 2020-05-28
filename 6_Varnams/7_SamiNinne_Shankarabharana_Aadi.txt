@@ -1,0 +1,39 @@
+Song: Sami Ninne (Varnam)
+Raga : Dheera Shankarabharanam (Melakarta 29) (s r2 g3 m1 p d2 n3 S)
+Composer: Veenai Kuppaiyer
+Language: Telugu
+Tala: Aadi
+Arohana:   s r2 g3 m1 p d2 n3 S
+Avarohana: S n3 d2 p m1 g3 r2 s
+
+Pallavi
+S  -  -  -  |  n  S  d  n  |  p  -  m  p  |  m  g  m  -  |  p  -  d  n  |  p  -  d  n  |  S  R  S  n  |  d  p  d  n  ||
+sa -  -  -  |  -  -  -  -  |  mi -  ni -  |  -  -  -  -  | nne -  -  -  |  -  -  ko -  |  -  -  -  -  |  ri -  -  -  ||
+
+S  -  S  d  |  p  m  p  -  |  p  m  g  r  |  s  r  g  s  | .n .p .d .n  |  s  -  p  m  |  g  r  g  m  |  p  -  d  n  ||
+cha-  la -  |  -  -  ma -  |  ru -  -  -  |  lu -  -  -  |  ko -  -  -  |  -  - nna -  |  -  -  di -  |  -  -  ra -  ||
+
+Anupallavi
+s  -  d  -  |  p  m  d  p  |  -  m  g  m  |  p  g  m  r  |  g  m  p  d  |  -  p  m  p  |  d  n  S  n  |  S  -  R  G  ||
+tha-  -  -  |  -  -  ma -  |  -  -  sa -  |  -  mu -  -  |  se -  -  -  |  -  -  ya -  |  -  -  -  -  |  ka -  -  -  ||
+M  G  R  n  |  S  R  S  n  |  d  p  d  n  |  S  R  S  -  |  S  d  p  p  |  -  m  g  r  |  s  m  g  m  |  p  -  d  n  ||
+da -  -  ya |  -  -  ju -  |  -  -  da -  |  -  -  ra -  |  -  -  -  ja |  -  go -  -  |  pa -  -  -  |  la -  -  -  ||
+
+Chitteswara
+S  R  n  S  |  d  n  S  p  |  d  n  S  d  |  p  m  p  d  |  m  p  g  m  |  p  r  g  m  |  s  r  g  m  |  p  d  n  S  ||
+R  G  M  G  |  R  G  R  S  |  n  p  d  n  |  S  -  p  -  |  S  n  d  p  |  -  m  g  r  |  s  r  -  g  |  m  p  d  n  ||
+
+Charana
+p  -  d  n  |  S  S  n  d  |  p  m  g  r  |  g  -  m  -  |  p  -  m  d  |  -  p  S  n  |  d  p  m  g  |  m  r  g  m  ||
+nee-  -  -  |  -  ra -  -  |  ja -  -  -  |  -  -  -  -  | kshi-  - nee |  -  - pai -  |  -  -  -  -  |  -  -  -  -  ||
+
+Ettugade Swaras
+p  -  -  m  |  -  -  p  -  |  -  g  -  m  |  -  r  -  g  |  s  -  -  r  |  -  - .n  -  |  -  s  -  r  |  -  g  -  m  || [1]
+
+p  d  -  p  |  m  g  m  p  |  -  m  g  m  |  r  g  -  r  |  s .n .d .n  |  - .p .d .n  |  s  r  - .n  |  s  r  g  m  || [2]
+
+m  -  d  p  |  m  g  m  -  |  p  g  m  r  |  g  s  -  .n |  s  m  g  r  |  s .n .d .n  |  s  r  g  m  |  p  -  g  m  ||
+p  d  n  p  |  d  n  S  R  |  S  G  R  -  |  S  n  d  n  |  S  -  R  n  |  d  p  -  d  |  m  g  r  s  |  -  r  g  m  || [3]
+
+p  -  m  p  |  g  m  r  g  |  s  -  m  g  |  r  s  .n .p | .d  - .n  s  |  r  s .n  -  |  s  r  g  m  |  p  -  d  p  ||
+S  -  n  R  |  -  S  M  G  |  R  G  S  -  |  n  p  d  n  |  S  R  S  -  |  n  d  p  -  |  m  g  r  s  |  -  r  g  m  || [4]

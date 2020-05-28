@@ -1,0 +1,44 @@
+Song: Chalamela (Varnam)
+Raga: Nattakurinji
+Janya: Harikambodhi (Melakarta 28) (s r2 g3 m1 p d2 n2 S)
+Composer: Mulaivittu Rangasami Nattuvanar
+Language: Telugu
+Tala: Aadi
+Arohana:   s r2 g3 m1 n2 d2 n2 p d2 n2 S
+Avarohana: S n2 d2 m1 g3 m1 p  g3 r2 s
+
+Pallavi
+m  -  g  -  |  s  -  -  -  |  s .n .d .n  | .p .d .n  -  |  s  -  -  -  |  -  - .n .d  | .n  s .n .d  | .n  s  r  g  ||
+cha-  la -  |  me -  -  -  |  -  -  -  -  |  -  -  -  -  |  la -  -  -  |  -  -  je -  |  -  -  Se -  | vai -  ya -  ||
+
+m  g  s  r  |  g  m  n  d  |  m  g  m  n  |  d  p  d  n  |  S  n  d  p  |  d  n  d  m  |  g  s .n .d  | .n  s  r  g  ||
+cha-  - kka |  -  -  ni -  |  -  ma -  -  |  -  -  -  -  | ran -  -  -  |  -  -  -  -  | gai -  -  -  |  -  -  ya -  ||
+
+Anupallavi
+S  -  n  d  |  n  p  d  n  |  S  n  d  m  |  p  g  r  s  |  m  g  m  p  |  g  m  n  d  |  n  p  d  n  |  S  -  -  -  ||
+ka -  la -  |  -  ka -  -  |  la -  -  mu |  -  -  -  -  | nee -  -  -  |  pa -  -  -  |  da -  mu -  |  le -  -  -  ||
+
+n  S  R  G  |  M  G  S  R  |  S  n  S  n  |  d  p  d  n  |  S  -  n  d  |  m  m  g  s  |  s  s .n .d  | .n  s  r  g  ||
+ga -  -  -  |  -  -  ti -  |  -  ya -  -  |  ni -  -  -  | nam -  -  -  |  -  mi -  -  | yun -  -  -  |  da -  ga -  ||
+
+Chitteswara
+m  m  g  s  | .n .d .n  s  |  r  r  s .n  | .d .p .d .n  |  s .n .d .m  | .n .d .n .p  | .d .n  s  r  | .n  s  r  g  ||
+m  m  g  s  |  r  g  m  n  |  d  m  g  m  |  n  d  n  S  |  R  G  M  S  |  -  -  S  n  |  d  m  -  m  |  g  s  r  g  ||
+
+Charana
+n  -  d  -  |  n  -  -  -  |  S  n  d  n  |  p  d  n  -  |  S  -  -  -  |  -  -  n  R  |  S  n  d  S  |  n  d  m  -  ||
+nan-  nu -  | bro -  -  -  |  va -  -  -  |  - nee -  -  |  ku -  -  -  |  -  -  ba -  |  -  -  -  ra |  -  -  ma -  ||
+
+Ettugade Swaras
+d  -  -  -  |  -  -  n  -  |  -  -  d  -  |  -  -  m  -  |  g  -  -  -  |  -  -  s  -  |  -  -  r  -  |  s  - .n  -  ||
+.d -  -  -  |  -  - .m  -  |  -  - .n  -  | .d  -  .n -  |  s  -  -  -  |  -  - .n  -  |  s  -  r  -  |  g  -  m  -  || [1]
+
+n  -  d  p  |  d  n  d  -  |  m  g  -  m  |  p  g  r  s  | .n  - .d .n  |  s  r  s  -  |  r  g  m  n  |  d  m  g  m  || [2]
+
+n  -  -  S  |  -  -  n  R  |  S  n  d  n  |  S  d  n  p  |  d  -  -  m  |  -  -  r  g  |  m  g  s .n  |  r  s .n .d  ||
+.n -  -  s  |  -  -  r  g  |  m  g  m  n  |  d  n  p  d  |  n  -  -  S  |  -  -  R  G  |  M  G  S  n  |  S  n  d  m  || [3]
+
+S  -  -  -  |  -  -  R  G  |  M  G  S  n  |  R  S  n  d  |  n  -  -  -  |  -  -  p  d  |  n  S  n  d  |  m  p  g  r  ||
+s  -  -  -  |  -  - .n .d  | .n  s .n .d  | .n  s  r  g  |  m  -  -  -  |  -  -  r  g  |  m  p  m  g  |  m  n  d  n  ||
+S  -  R  S  |  n  d  n  -  |  S  d  n  p  |  d  -  p  m  |  g  -  m  p  |  g  m  n  -  |  d  m  n  d  |  n  p  d  n  ||
+S  R  G  M  |  G  S  n  R  |  S  n  d  n  |  d  p  d  n  |  S  d  p  g  |  m  p  g  r  |  s .n .d .n  |  s  r  g  m  || [4]

@@ -1,0 +1,26 @@
+Song: Kunda Gowra (Geetam)
+Raga: Malahari
+Janya: Mayamalavagowla (Melakarta 15) (s r1 g3 m1 p d1 n3 S)
+Composer: Purandaradasa
+Language: Sanskrit
+Tala: Roopaka Chaturashra Jaati
+Arohana: s r1 m1 p d1 S
+Avarohana: S d1 p m1 g3 r1 s
+
+d  p   |  m  g  r  s   ||  r  m   |  p  d  m  p   || d  R   |  R  S  d  p   ||  d  p   |  m  g  r  s   ||
+kunda  |  gow-  -  ra  ||  gow-   |  ri -  va ra  || mandi  |  ra -  -  ya  ||  maa-   |  na ma ku ta  ||
+
+s  -   |  r  -  r  -   ||  d  p   |  m  g  r  s   || s  r   |  p  m  g  r   ||  s  r   |  g  r  s  -   ||
+man-   |  da -  ra -   ||  ku su  |  ma -  ka ra  || maka   |  ran-  dam-   ||  va -   |  si tu vaa-   ||
+
+d  p   |  m  g  r  s   ||  r  m   |  p  d  m  p   || d  R   |  R  S  d  p   ||  d  p   |  m  g  r  s   ||
+he ma  |  ku -  -  ta  ||  sim-   |  ha -  sa na  || vi ru  |  paa-  -  ksha||  ka ru  |  naa-  ka ra  ||
+
+s  -   |  r  -  r  -   ||  d  p   |  m  g  r  s   || s  r   |  p  m  g  r   ||  s  r   |  g  r  s  -   ||
+man-   |  da -  ra -   ||  ku su  |  ma -  ka ra  || maka   |  ran-  dam-   ||  va -   |  si tu vaa-   ||
+
+d  p   |  m  g  r  s   ||  r  m   |  p  d  m  p   || d  R   |  R  S  d  p   ||  d  p   |  m  g  r  s   ||
+canda  |  ma -  -  ma  ||  man-   |  daa - ki ni  || mandi  |  raa-  -  ya  ||  ma -   |  na ma ku ta  ||
+
+s  -   |  r  -  r  -   ||  d  p   |  m  g  r  s   || s  r   |  p  m  g  r   ||  s  r   |  g  r  s  -   ||
+man-   |  da -  ra -   ||  ku su  |  ma -  ka ra  || maka   |  ran-  dam-   ||  va -   |  si tu vaa-   ||

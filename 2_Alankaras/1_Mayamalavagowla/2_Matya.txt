@@ -1,0 +1,45 @@
+Raga: Mayamalavagowla (Melakarta 15) (s r1 g3 m1 p d1 n3 S)
+Taala: Matya Chaturashra Jaati
+10 Letters
+
+| - - - | 0 | - - -
+
+s r g r | s r | s r g m ||
+r g m g | r g | r g m p ||
+g m p m | g m | g m p d ||
+m p d p | m p | m p d n ||
+p d n d | p d | p d n S ||
+S n d n | S n | S n d p ||
+n d p d | n d | n d p m ||
+d p m p | d p | d p m g ||
+p m g m | p m | p m g r ||
+m g r g | m g | m g r s ||
+
+s r g | r s r | s r g | m r g |
+m g r | g r g |
+m p g | m p m | g m g | m p d ||
+
+m p d | p m p | m p d | n p d |
+n d p | d p d |
+n S S | n d n | S n S | n d p ||
+
+n d p | d n d | n d p | m d p |
+m p d | p d p |
+m g p | m g m | p m p | m g r ||
+
+m g r | g m g | m g r | s p m |
+g m p | m p m |
+g r m | g r g | m g m | g r s ||
+
+s r g r | s r s r | g m r g | m g r g |
+r g m p | g m p m |
+g m g m | p d m p | d p m p | m p d n ||
+
+p d n d | p d p d | n S S n | d n S n |
+S n d p | n d p d |
+n d n d | p m d p | m p d p | d p m g ||
+
+p m g m | p m p m | g r m g | r g m g |
+m g r s | p m g m |
+p m p m | g r m g | r g m g | m g r s ||
+

@@ -1,0 +1,19 @@
+Song: Vande Meenakshi (Nottuswaram)
+Raga: Dheera Shankarabharanam (Melakarta 29) (s r2 g3 m1 p d2 n3 S)
+Composer: Muthuswami Dikshitar
+Language: Sanskrit
+Tala: Aadi
+Arohana:   s r2 g3 m1 p d2 n3 S
+Avarohana: S n3 d2 p m1 g3 r2 s
+
+s  -  g  -  |  s  -  g  -  |  s  -  |  g  -  |  m  g  |  r  s  || .n -  r  -  | .n  -  r  -  | .n  -  |  r  -  |  g  r  |  s .n  ||
+van-  de -  |  me -  na -  | kshi-  | tvam-  |  sa ra |  si ja || vak-  tre-  | par -  ne -  | dur -  |  ge -  |  na ta |  su ra ||
+
+s  -  g  -  |  s  -  g  -  |  s  r  |  g  m  |  p  -  |  -  -  || m  g  r  s  |  g  r  s .n  |  s  -  |  -  -  |  -  -  |  -  -  ||
+br in de -  | sak -  te -  |  gu ru |  gu ha | paa -  |  -  -  || li ni ja la |  ru hacha ra |  ne -  |  -  -  |  -  -  |  -  -  ||
+
+S  -  n  d  |  p  -  m  -  |  g  -  |  m  -  |  p  -  |  d  -  || S  -  n  d  |  p  -  m  -  |  p  -  |  -  -  |  -  -  |  -  -  ||
+sun-  da ra | pan - dya -  | nan -  |  de -  |  ma -  |  ye -  || su -  ri ja |  na - dha -  |  re -  |  -  -  |  -  -  |  -  -  ||
+
+S  - n  d   |  p  -  p  m  |  g  -  |  m  m  |  p  -  |  d  -  || m  g  r  s  |  g  r  s .n  |  s  -  |  -  -  |  -  -  |  -  -  ||
+sun- da ra  |  ra - ja  sa |  ho -  |  da ri | gau -  |  ri -  || shubhaka ri |  sa tatam a  | ham -  |  -  -  |  -  -  |  -  -  ||

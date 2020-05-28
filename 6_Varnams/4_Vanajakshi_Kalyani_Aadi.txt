@@ -1,0 +1,40 @@
+Song: Vanajakshiro (Varnam)
+Raga: Mecha Kalyani (Melakarta 65) (s r2 g3 m2 p d2 n3 S)
+Composer: Poochi Srinivasa Iyengar
+Language: Telugu
+Tala: Aadi
+Arohana:   s r2 g3 m2 p d2 n3 S
+Avarohana: S n3 d2 p m2 g3 r2 s
+
+Pallavi
+S  S  -  S  |  n  d  R  S  |  n  n  d  d  |  p  m  g  m  |  p  d  n  d  |  -  R  S  n  |  d  p  m  g  |  m  p  d  n  ||
+va na -  ja |  -  - kshi-  |  -  -  ro -  |  -  -  ee -  |  vi -  -  ra |  -  ha -  -  |  mo -  - rva |  -  -  -  ne ||
+
+S  R  G  R  |  S  n  S  R  |  S  n  R  S  |  n  d  n  d  |  n  -  -  -  |  -  -  S  n  |  d  p  m  g  |  m  p  d  n  ||
+va -  -  -  |  -  su -  -  |  -  -  de -  |  -  vu -  -  |  ni -  -  -  |  -  - tho -  |  di -  -  te |  -  -  -  ve ||
+
+Anupallavi
+p  -  m  g  |  n  d  -  g  |  d  p  -  m  |  g  r  s .n  |  s  r  g  m  |  -  -  g  m  |  p  g  -  m  |  n  d  n  p  ||
+vi -  -  -  |  -  na -  -  |  -  ve -  -  |  na -  ga -  |  pu -  -  ra |  -  -  mu -  |  -  na -  -  |  -  -  -  -  ||
+d  n  S  R  |  -  S  R  G  |  S  R  G  R  |  S  n  d  n  |  d  G  R  S  |  n  d  p  n  |  d  p  m  g  |  m  p  d  n  ||
+ve -  -  la |  -  yu -  -  | sou -  -  nd |  da -  -  -  |  ra -  -  -  |  -  -  ra -  |  -  -  -  ju |  -  -  -  ni ||
+
+Chitteswara
+S  R  -  n  |  S  n  d  n  |  -  S  n  d  |  p  m  g  r  |  s  r  s  p  |  -  m  d  -  |  p  n  d  R  |  S  n  d  n  ||
+d  G  R  n  |  -  R  n  -  |  S  d  -  n  |  p  d  n  S  |  G  R  S  -  |  n  d  p  -  |  m  g  r  g  |  m  p  d  n  ||
+
+Charana
+n  -  -  -  |  -  -  S  d  |  S  n  d  p  |  m  g  m  -  |  p  -  -  -  |  -  -  m  p  |  d  n  p  d  |  n  d  R  S  ||
+ni -  -  -  |  -  -  lu -  |  -  -  pa -  |  -  ra -  -  |  ni -  -  -  |  -  -  mo -  |  ha -  -  ma |  -  -  -  ye ||
+
+Ettugade Swaras
+p  -  -  -  |  m  -  g  -  |  r  -  d  -  |  m  -  g  -  |  r  - .n  -  |  s  -  r  -  |  g  -  m  -  |  -  p  -  d  || [1]
+
+p  -  d  p  |  -  m  g  m  |  p  -  m  g  |  -  r  s .n  |  s  -  r .n  |  -  s .d .n  |  s  r  -  g  |  -  m  p  d  || [2]
+
+n  -  -  -  |  -  -  S  R  |  n  S  n  d  |  n  d  p  m  |  p  -  -  d  |  n  d  p  d  |  p  m  p  m  |  g  m  p  d  ||
+n  S  n  G  |  R  G  S  R  |  n  S  -  R  |  S  R  n  S  |  d  n  -  S  |  n  d  p  m  |  g  m  p  d  |  -  n  G  R  || [3]
+
+R  -  -  -  |  -  -  d  G  |  R  S  n  p  |  d  n  S  R  |  S  -  -  -  |  -  -  S  n  |  d  p  m  g  |  -  m  p  d  ||
+m  -  p  d  |  n  p  -  d  |  n  S  R  -  |  S  n  d  n  |  S  n  -  d  |  p  m  g  m  |  p  d  p  n  |  d  -  -  -  ||
+d  n  S  R  |  R  G  G  M  |  G  R  S  n  |  S  R  S  n  |  d  S  n  d  |  p  n  d  p  |  m  g  -  m  |  -  p  -  d  || [4]

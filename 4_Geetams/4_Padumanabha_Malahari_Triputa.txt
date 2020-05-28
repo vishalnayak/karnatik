@@ -1,0 +1,28 @@
+Song: Padumanabha (Geetam)
+Raga: Malahari
+Janya: Mayamalavagowla (Melakarta 15) (s r1 g3 m1 p d1 n3 S)
+Composer: Purandaradasa
+Language: Kannada
+Tala: Triputa Trishra Jaati
+Arohana: s r1 m1 p d1 S
+Avarohana: S d1 p m1 g3 r1 s
+
+r  s  .d  |  s  -   |  s  -  ||  m  g  r   |  m  m   |  p  -   || s  d  -   |  d  p   |  m  p  ||  d  d  p   |  m  g   |  r  s   ||
+pa du ma  |  na -   |  bha-  ||  pa ra ma  |  pu ru  |  sha-   || pa ran-   |  jo -   |  -  ti ||  swaroo-   |  pa -   |  -  -   ||
+r  s  .d  |  s  -   |  s  -  ||  m  g  r   |  m  m   |  p  -   || s  d  -   |  d  p   |  m  p  ||  d  d  p   |  m  g   |  r  s   ||
+vi dhura  |  van-   |  dya-  ||  vi ma la  |  chari  |  ta -   || vi han-   |  ga -   |  -  di ||  ro -  ha  |  na -   |  -  -   ||
+
+p  m  p   |  d  S   |  d  S  ||  R  R  S   |  d  S   |  d  p   || d  d  p   |  p  -   |  p  m  ||  r  m  -   |  p  -   |  -  -   ||
+u  da dhi |  ni va  |  -  sa ||  u  ra ga  |  shaya  |  na -   || un -  na  |  ton-   |  na ta ||  ma hi -   |  ma -   |  -  -   ||
+d  d  p   |  p  -   |  p  m  ||  r  -  m   |  m  g   |  r  s   || s  -  s   |  d  -   |  d  p  ||  p  -  p   |  m  g   |  r  s   ||
+ya du ku  |  lo -   |  ttama ||  yag-  nya |  rak-   |  shaka  || ag -  nya |  shik   |  shaka ||  ra -  ma  |  na -   |  -  ma  ||
+
+d  S  -   |  d  p   |  m  p  ||  d  d  p   |  m  g   |  r  s   || R  S  -   |  d  p   |  m  p  ||  d  d  p   |  m  g   |  r  s   ||
+vi bhe-   |  shana  |  pa -  ||  la ka -   |  na mo  |  na mo  || i  bha-   |  va ra  |  da -  ||  ya ka -   |  na mo  |  na mo  ||
+p  m  p   |  d  S   |  d  S  ||  R  R  S   |  d  S   |  d  p   || d  d  p   |  p  -   |  p  m  ||  r  m  -   |  p  -   |  -  -   ||
+shubha-   |  prada  |  su ma ||  no -  ra  |  da -   |  ya su  || ren-  dra |  ma -   |  no -  ||  ran-  ja  |  na -   |  -  -   ||
+d  d  p   |  p  -   |  p  m  ||  r  -  m   |  m  g   |  r  s   || s  s   s  |  d  -   |  d  p  ||  p  -  p   |  m  g   |  r  s   ||
+a  bhi-   |  na -   |  va pu ||  ran-  da  |  ra -   |  -  -   || vi tha la |  bha-   | lla re ||  ra -  ma  |  na -   |  -  ma  ||
+
+r  s  .d  |  s  -   |  s  -  ||  m  g  r   |  m  m   |  p  -   ||
+pa du ma  |  na -   |  bha-  ||  pa ra ma  |  pu ru  |  sha-   ||

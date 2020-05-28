@@ -1,0 +1,8 @@
+# JetBrains project files
+.idea
+
+# MacOS icon files
+Icon?
+
+# MacOS directory metadata files
+.DS_Store
