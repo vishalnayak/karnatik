@@ -68,7 +68,7 @@ di -  -  -  |  -  - kka -  |  -  -  -  -  |  ni -  -  -  ||
 
 Ettugade Swaras
 m  -  -  -  |  -  -  g  -  |  r  -  g  -  |  r  -  s  -  |  -  -  s  -  |
-.n -  .p -  |  -  -  .n -  |  .n -  s  -  |  -  -  -  -  |  n  -  g  -  |
+.n -  .p -  |  -  -  .n -  |  .n -  s  -  |  -  -  -  -  | .n  -  g  -  |
 r  -  g  -  |  m  -  d  -  |  d  -  m  -  |  g  -  r  -  ||
 s  -  g  -  |  r  -  .n -  | [1]
 
