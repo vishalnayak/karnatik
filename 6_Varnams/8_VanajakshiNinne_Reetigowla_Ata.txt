@@ -9,18 +9,18 @@ Avarohana: S n2 d2 m1 g2 m1 p m1 g2 r2 s
 
 Pallavi
 .n s .n  s  |  g  r  g  m  |  p  -  m  -  |  g  -  r  -  |  s  -  -  -  |
--  -  -  -  |  -  -  -  -  |  va -  na -  |  ja -  -  -  |kshi -  -  -  |
+-  -  -  -  |  -  -  -  -  |  va -  na -  |  ja -  -  -  |ksha -  -  -  |
 .n s  g  r  |  s  s .n .n  | .p  - .n .n  |  s .n  s  g  |  -  g  m  -  |
-ni -  -  -  |  -  -  -  -  |  -  -  nne-  |  -  -  -  -  |  -  -  -  -  |
+ni -  -  -  |  -  -  -  -  | nne -  -  -  |  -  -  -  -  |  -  -  -  -  |
 g  m  p  d  |  p  m  g  m  |  p  p  m  m  |  g  r  p  m  ||
--  -  -  ko |  -  -  -  -  |  -  -  -  -  |  -  -  ri -  ||
+-  -  ko -  |  -  -  -  -  |  -  -  -  -  |  -  -  ri -  ||
 
 g  r  s  .n |  s  g  g  m  |  p  -  d  d  |  m  g  m  p  |  p  m  g  r  |
-na -  -  -  |  -  -  -  -  |  ve -  -  -  |  -  sa -  -  |  ta -  -  -  |
+-  -  -   n |  -  -  -  -  |  ve -  -  -  |  -  sa -  -  |  ta -  -  -  |
 g  m  g  m  |  n  n  d  d  |  n  n  d  m  |  -  g  m  g  |  s  -  -  -  |
--  - thee-  |  -  -  -  -  |  -  - rchi-  | bro -  -  -  |  -  -  va -  |
+-  - dee -  |  -  -  -  -  | rchi - - bro |  -  -  -  -  |  va -  -  -  |
 .n s  .n s  |  g  r  g  m  |  p  d  m  p  |  g  m  g  r  ||
--  - vai -  |  -  -  -  -  |  -  -  -  -  |  -  -  -  -  ||
+-  -  - vai |  -  -  -  -  |  -  -  -  -  |  -  -  -  -  ||
 
 Anupallavi
 g  -  p  m  |  g  r  g  m  |  s  -  n  d  |  n  p  d  n  |  n  d  m  g  |
@@ -29,7 +29,7 @@ ya -  -  -  |  -  -  -  -  |  ma -  na -  |  -  si -  -  |  -  -  -  ju |
 m  d  p  m  |  g  r  g  m  |  d  p  -  m  |  g  r  p  m  |  -  g  r  s  |
 -  -  -  -  |  -  -  -  -  |  ni -  -  -  |  -  - kan -  |  -  -  -  -  |
 .n s  - .n  |  g  r  g  g  |  m  n  n  d  |  m  g  m  n  ||
--  -  - nna |  -  -  -  -  | cha -  -  -  |  - kka -  -  ||
+-  -  -  -  | nna -  -  -  | cha -  -  -  |  - kka -  -  ||
 
 n  -  S  n  |  S  -  -  -  |  n  S  G  G  |  M  G  M  G  |  R  G  -  G  |
 -  -  -  -  |  ni -  -  -  |  ma -  -  -  |  -  ve -  -  |  -  -  -  -  |
