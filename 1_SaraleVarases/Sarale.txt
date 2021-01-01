@@ -5,6 +5,18 @@ Taala: Aadi
 
 s r g m | p d | n S || S n d p | m g | r s || s r g m | p d | n S || S n d p | m g | r s ||
 
+s r s r | s r | g m || s r g m | p d | n S || S n S n | S n | d p || S n d p | m g | r s ||
+
+s r g s | r g | s r || s r g m | p d | n S || S n d S | n d | S n || S n d p | m g | r s ||
+
+s r g m | p - | - - || s r g m | p d | n S || S n d p | m - | - - || S n d p | m g | r s ||
+
+s r g m | p - | g m || p - - - | p - | - - || g m p d | n d | p m || g m p g | m g | r s ||
+S - n d | n - | d p || d - p m | p - | p - || g m p d | n d | p m || g m p g | m g | r s ||
+S S n d | n n | d p || d d p m | p - | p - || g m p d | n d | p m || g m p g | m g | r s ||
+
+Extras:
+
 s r g m | s r | g m || s r g m | p d | n S || S n d p | S n | d p || S n d p | m g | r s ||
 
 s r g m | s r | s r || s r g m | p d | n S || S n d p | S n | S n || S n d p | m g | r s ||
@@ -27,15 +39,9 @@ s r g s | r g | s r || s r g m | p d | n S || S n d S | n d | S n || S n d p | m
 
 s r g m | p - | p - || s r g m | p d | n S || S n d p | m - | m - || S n d p | m g | r s ||
 
-s r g m | p - | s r || s r g m | p d | n S || S n d p | m - | S n || S n d p | m g | r s ||
-
 s r g m | p - | p - || d d p - | m m | p - || n n d - | d n | S - || S n d p | m g | r s ||
 
-s r g m | p - | g m || p - - - | p - | - - || g m p d | n d | p m || g m p g | m g | r s ||
-
 s r g r | g - | g m || p m p - | d p | d - || m p d p | d n | d p || m p d p | m g | r s ||
-
-S - n d | n - | d p || d - p m | p - | p - || g m p d | n d | p m || g m p g | m g | r s ||
 
 s r g m | p d | n S || R - S - | n d | n S || n - n - | d p | d n || d - d - | p m | p d ||
 p - p - | m g | m p || m - m - | g r | g m || g - g - | m p | d n || S n d p | m g | r s ||
