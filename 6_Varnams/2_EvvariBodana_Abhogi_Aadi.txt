@@ -11,7 +11,7 @@ Pallavi
 r  -  g  -  |  g  r  s  -  |  s  r  s  s  | .d .m .d  -  | .m .d  s .d  |  -  s .d  s  |  r  g  -  m  |  g  g  r  s  ||
 ev -  va -  |  ri -  -  -  |  bo -  -  -  | dha -  -  -  |  na -  -  -  |  -  -  vi -  |  -  -  -  ni |  -  -  -  -  ||
 
-r  g  m  r  |  -  g  r  g  |  s  r  - .d  |  s  r  g  m  |  d  m  d  S  |  -  S  d  S  |  d  m  -  d  |  m  g  r  s  ||
+r  g  m  g  |  -  m  r  g  |  s  r  - .d  |  s  r  g  m  |  d  m  d  S  |  -  S  d  S  |  d  m  -  g  |  m  g  r  s  ||
 ee -  -  -  |  -  -  la -  |  -  -  -  gu |  -  -  -  -  |  je -  -  -  |  -  -  se -  |  -  -  -  vu |  -  ra  -  - ||
 
 Anupallavi
