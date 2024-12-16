@@ -1,0 +1,27 @@
+Raga: Neelambari
+Janya: Shankarabaranam (Melakarta 29)
+Arohana: s r2 g3 m1 p n3 S
+Avarohana: S n3 p d2 n2 p m1 g3 r2 g3 m1 g3 S
+
+Patterns:
+s r g m p n S
+S n p m g r g s 
+g m p d n2 p d - p m g m - - - - 
+m g m r g r p g m - - - - 
+g m p n S - - n p - m g m - - -
+m p m g r g m - - - 
+g m p - - - d p m g r g m - - - 
+g m p n - d n p d p m p m g m - - -
+s - - - p - g m - - -
+r d - m - - - 
+m g m p - - d n - - S - - - 
+S n d n S n p - -
+g m p - - d n d d p m g r g m - - - 
+r p m g m - - - 
+m g r g m p d n d p m g 
+r g m p m g
+r g m - - - - - - g s - - - -
+s n d n s - - n p - - - - 
+p s n s p g m - - - - 
+m g r g m - - - - 
+r g m p m g r g m g r g m - - g s - - - - 

@@ -1,0 +1,23 @@
+Raga: Pantuvarali (Melakarta 51)
+Arohana: s r1 g3 m2 p d1 n3 S
+Avarohana: S n3 d1 p m2 g3 r1 S
+
+
+Patterns:
+n S S n d p m g r g m g - - - 
+r g r g m d d p m
+g m g - r s .n
+s d p m p d p m p d p d m
+p g - m r - 
+g n d n S n d p m g - r s .n
+s r g r g m p - - - 
+d p d m p g m r g 
+m n n d p m g - r s .n
+s d p m p d n d p m g r g m g - - -
+g m p g m r g m - - n d d p p - - - 
+d p - m p d n d p m
+n d n d p d g m p - - -
+n d n p d n m p d n g m p d n d p m g m g r g m p - - - 
+g g m m g g d d g g n n d p m g r g m p - - - 
+g g m m g g m m d d g g m m d d n n d d n n m m d d m m d d g g m m g g m m r r
+g n d n R S n d p m g m r - - g m p - d n d p m 

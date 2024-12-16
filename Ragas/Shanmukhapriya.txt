@@ -1,0 +1,6 @@
+Raga: Shanmukhapriya (Melakarta 56)
+Arohana: s r2 g2 m2 p d1 n2 S
+Avarohana: S n2 d1 p m2 g2 r2 S
+
+
+Patterns:
