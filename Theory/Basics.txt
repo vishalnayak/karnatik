@@ -13,19 +13,15 @@ Nishada
 Positions:
 s1 Ṣhaḍja
 r1 Shuddha Rishabha
-r2 Chatushruti Rishabha
-g1 Shuddha Gandhara
-r3 Shatshruti Rishabha
-g2 Sadharana Gandhara
+r2 Chatushruti Rishabha / g1 Shuddha Gandhara
+r3 Shatshruti Rishabha / g2 Sadharana Gandhara
 g3 Antara Gandhara
 m1 Shuddha Madhyama
 m2 Prathi Madhyama
 p  Panchama
 d1 Shuddha Dhaivata
-d2 Chatushruti Dhaivata
-n1 Shuddha Nishada
-d3 Shatshruti Dhaivata
-n2 Kaishiki Nishada
+d2 Chatushruti Dhaivata / n1 Shuddha Nishada
+d3 Shatshruti Dhaivata / n2 Kaishiki Nishada
 n3 Kakali Nishada
 
 s, r1, r2=g1, r3=g2, g3, m1, m2, p, d1, d2=n1, d3=n2, n3
